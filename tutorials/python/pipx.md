@@ -27,6 +27,7 @@ Example packages.
     black
     flake8
     pwntools
+    thefuck
 
     pipx run --spec=chardet chardetect --help
 
