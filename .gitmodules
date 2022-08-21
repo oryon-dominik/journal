@@ -1,3 +1,4 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/oryon-dominik/secret-journal
+	branch = trunk
