@@ -129,6 +129,7 @@ Victor Skvortsov
 2020-08-31  
 https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/  
 
+
 ## Security
 
 NAT Slipstreaming, take control over javascript  
@@ -150,6 +151,12 @@ Netcat - All you need to know
 Michael Ikua  
 2021-07-08  
 https://blog.ikuamike.io/posts/2021/netcat/  
+
+Cryptographic Right Answers  
+Colin Percival  
+2009-06-11  
+https://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html  
+
 
 ## Frontend
 
