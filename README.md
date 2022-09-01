@@ -7,9 +7,9 @@ Personal &amp; Technical Notes and Documentations
 - [Interesting Blogposts](interesting-blogposts.md)
 - [Link Library](link-library.md)
 
-Tutorials on several Topics
+Tutorials on several Topics  
 
-And my private collection (integrated as a git submodule) of notes.
+And my private collection (integrated as a git submodule) of notes.  
 
 ## Clone inlcuding personal files (the 'secret journal')
 
