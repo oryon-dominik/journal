@@ -3,9 +3,9 @@
 
 Personal &amp; Technical Notes and Documentations
 
-Agile Principles
-Interesting Blogposts
-Link Library
+- [Agile Principles](agile-principles.md)
+- [Interesting Blogposts](interesting-blogposts.md)
+- [Link Library](link-library.md)
 
 Tutorials on several Topics
 
