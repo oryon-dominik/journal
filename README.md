@@ -9,9 +9,11 @@ Personal &amp; Technical Notes and Documentations
 
 Tutorials on several Topics  
 
-And my private collection (integrated as a git submodule) of notes.  
 
-## Clone inlcuding personal files (the 'secret journal')
+## Cloning the 'secret-journal' -> inlcude public files (the 'public journal')
 
-    git clone --recurse-submodules https://github.com/oryon-dominik/journal
+    git clone --recurse-submodules https://github.com/oryon-dominik/secret-journal
 
+    # has been achieved by adding this repo as a submodule
+    git submodule add https://github.com/oryon-dominik/journal public
+    git submodule set-branch --branch trunk public
