@@ -91,8 +91,10 @@ https://semver.org/
 Laws, Theories, Principles and Patterns that developers will find useful.  
 https://github.com/dwmkerr/hacker-laws  
 
-*disclosure agreement between friends*
+*FriendDA*
+disclosure agreement between friends
 https://friendda.org/
+
 
 ## Backend
 
