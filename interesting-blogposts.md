@@ -129,6 +129,11 @@ Victor Skvortsov
 2020-08-31  
 https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/  
 
+Deploying Python web apps as AWS Lambda functions  
+Simon Willison  
+2022-09-18  
+https://til.simonwillison.net/awslambda/asgi-mangum  
+
 
 ## Security
 
