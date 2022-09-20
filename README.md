@@ -7,13 +7,15 @@ Personal &amp; Technical Notes and Documentations
 - [Interesting Blogposts](interesting-blogposts.md)
 - [Link Library](link-library.md)
 
-Tutorials on several Topics  
+Tutorials on several Topics.  
 
-
-## Cloning the 'secret-journal' -> inlcude public files (the 'public journal')
+---
+##### git clone
+For full obsidian integration clone the 'secret-journal'
+-> that includes this 'public journal' as a submodule.
 
     git clone --recurse-submodules https://github.com/oryon-dominik/secret-journal
 
-    # has been achieved by adding this repo as a submodule
+    # has been achieved by adding this repo as a submodule to secret-journal
     git submodule add https://github.com/oryon-dominik/journal public
     git submodule set-branch --branch trunk public
