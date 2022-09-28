@@ -37,6 +37,7 @@ Faster snippets. Faster coding. Great experience for every-day-tasks.
 https://copilot.github.com/  
 
 *open github repos in vscode in the browser*  
+Just press '.' when logged-in.  
 https://news.ycombinator.com/item?id=28157661  
 
 *hetzner*  
@@ -355,12 +356,17 @@ https://help.ubuntu.com/community/PortKnocking
 Be aware on using them securely with trusted algorithms and correct header setup.  
 https://jwt.io/  
 
-*Fuzzy security* tutorial series  
+*Fuzzy security*  
+Tutorial series.  
 https://www.fuzzysecurity.com/tutorials.html  
 
 *Magic hashes*  
 PHP hash collisions.  
 https://github.com/spaze/hashes  
+
+*Fractal Crypt*  
+Deniable encryption cryptoarchiver.
+https://github.com/zorggish/FractalCryptGUI  
 
 
 ## Stars from GitHub
