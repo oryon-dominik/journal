@@ -302,9 +302,13 @@ https://github.com/alacritty/alacritty
 IDE-style autocomplete to terminal  
 https://fig.io/
 
-TheFuck  
+*TheFuck*  
 Correct previous command, when mistyped, by typing `fuck`  
 https://github.com/nvbn/thefuck  
+
+*Chmod*  
+Chmod Command Calculator  
+https://chmodcommand.com/  
 
 
 ## Security
