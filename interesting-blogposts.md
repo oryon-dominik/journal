@@ -134,8 +134,10 @@ Simon Willison
 2022-09-18  
 https://til.simonwillison.net/awslambda/asgi-mangum  
 
+*Should You Use Upper Bound Version Constraints?*
+Henry Schreiner  
+https://iscinumpy.dev/post/bound-version-constraints/  
 
-https://iscinumpy.dev/post/bound-version-constraints/
 
 ## Security
 
