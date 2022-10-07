@@ -3,7 +3,7 @@
 Some introduction to mostly technical topics I find interesting occassionally.  
 Could also be my favourites collection..  
 
-For the pretty advanced stuff see my collection of [interesting blogposts](https://github.com/oryon-dominik/dotfiles/blob/master/tutorials/interesting-blogposts.md).  
+For the pretty advanced stuff see my collection of [interesting blogposts](https://github.com/oryon-dominik/journal/blob/trunk/interesting-blogposts.md).  
 
 
 ## Toolbox
@@ -367,6 +367,17 @@ https://github.com/spaze/hashes
 *Fractal Crypt*  
 Deniable encryption cryptoarchiver.
 https://github.com/zorggish/FractalCryptGUI  
+
+
+## Machine Learning
+
+*Lexica*  
+The Stable Diffusion search engine  
+https://lexica.art/  
+
+*dreamlike*  
+AI art generation website  
+https://dreamlike.art/  
 
 
 ## Stars from GitHub
