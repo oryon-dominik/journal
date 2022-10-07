@@ -259,3 +259,8 @@ Master the Docker command line for container ops
 Alan R. Earls  
 2017-08-10  
 https://searchitoperations.techtarget.com/feature/Master-the-Docker-command-line-for-container-ops  
+
+Software Engineering at Google  
+Aaron Schumacher  
+2021-03-31  
+https://planspace.org/20210331-software_engineering_at_google/  
