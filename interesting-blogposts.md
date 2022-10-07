@@ -135,6 +135,8 @@ Simon Willison
 https://til.simonwillison.net/awslambda/asgi-mangum  
 
 
+https://iscinumpy.dev/post/bound-version-constraints/
+
 ## Security
 
 NAT Slipstreaming, take control over javascript  
