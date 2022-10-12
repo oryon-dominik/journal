@@ -254,6 +254,10 @@ Matt Gemmell
 2008-12-08  
 https://mattgemmell.com/what-have-you-tried / http://whathaveyoutried.com/  
 
+The compiler is always right  
+
+https://blog.mozilla.org/nfroyd/2014/05/09/the-compiler-is-always-right/  
+
 Programmers don't understand hash-functions  
 "Soatok Dhole"  
 2021-08-24  
