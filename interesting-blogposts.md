@@ -255,7 +255,8 @@ Matt Gemmell
 https://mattgemmell.com/what-have-you-tried / http://whathaveyoutried.com/  
 
 The compiler is always right  
-
+Nathan Froyd  
+2014-05-09  
 https://blog.mozilla.org/nfroyd/2014/05/09/the-compiler-is-always-right/  
 
 Programmers don't understand hash-functions  
