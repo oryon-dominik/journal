@@ -462,4 +462,8 @@ mongodb
 
 https://www.lexoffice.de/
 
-Bub
+Mocks:
+https://bubble.io
+
+Finetuning:
+https://keras.io/examples/nlp/text_classification_with_transformer/
