@@ -445,6 +445,16 @@ https://www.codacy.com/
 User stories and prioritization  
 https://www.productboard.com/  
 
-Docusaurus
+---
+#TODO:
+
+Docusaurus  
+https://docusaurus.io/  
+
 auth0
+https://auth0.com/
+
 vercel
+https://vercel.com/
+
+mongodb
