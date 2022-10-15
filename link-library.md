@@ -444,3 +444,7 @@ https://www.codacy.com/
 *product management*  
 User stories and prioritization  
 https://www.productboard.com/  
+
+Docusaurus
+auth0
+vercel
