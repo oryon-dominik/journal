@@ -292,3 +292,8 @@ Aaron Schumacher
 2021-03-31  
 https://planspace.org/20210331-software_engineering_at_google/  
 
+Hexagonal Grids  
+Amit Patel - Red Blob Games  
+2013-03-01  
+https://www.redblobgames.com/grids/hexagons/  
+
