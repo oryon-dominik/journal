@@ -166,6 +166,8 @@ Colin Percival
 2009-06-11  
 https://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html  
 
+Security Headers
+https://web.dev/security-headers/  
 
 ## Frontend
 
