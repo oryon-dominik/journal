@@ -142,9 +142,14 @@ https://iscinumpy.dev/post/bound-version-constraints/
 ## PostgreSQL
 
 Postgres Full Text Search vs the rest  
-Victor Vadon  
+Victor Adossi  
 2022-10-14  
 https://supabase.com/blog/postgres-full-text-search-vs-the-rest  
+
+Six findings we rely on when managing PostgreSQL indexes  
+Billy Ceskavich  
+2022-10-06  
+https://knock.app/blog/postgres-index-findings  
 
 
 ## Security
@@ -178,6 +183,7 @@ Security Headers Quick Reference
 Artur Janc, Eiji Kitamura & Maud Naplas
 2022-02-14  
 https://web.dev/security-headers/  
+
 
 ## Frontend
 
