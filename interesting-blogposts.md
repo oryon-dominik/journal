@@ -139,6 +139,14 @@ Henry Schreiner
 https://iscinumpy.dev/post/bound-version-constraints/  
 
 
+## PostgreSQL
+
+Postgres Full Text Search vs the rest  
+Victor Vadon  
+2022-10-14  
+https://supabase.com/blog/postgres-full-text-search-vs-the-rest  
+
+
 ## Security
 
 NAT Slipstreaming, take control over javascript  
