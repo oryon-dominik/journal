@@ -166,7 +166,9 @@ Colin Percival
 2009-06-11  
 https://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html  
 
-Security Headers
+Security Headers Quick Reference  
+Artur Janc, Eiji Kitamura & Maud Naplas
+2022-02-14  
 https://web.dev/security-headers/  
 
 ## Frontend
