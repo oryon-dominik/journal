@@ -96,6 +96,10 @@ https://github.com/dwmkerr/hacker-laws
 disclosure agreement between friends  
 https://friendda.org/  
 
+*Docusaurus*  
+Static site generator for Markdown files to ship beautiful documentation websites in no time.
+https://docusaurus.io/  
+
 
 ## Backend
 
@@ -448,8 +452,7 @@ https://www.productboard.com/
 ---
 #TODO:
 
-Docusaurus  
-https://docusaurus.io/  
+
 
 auth0
 https://auth0.com/
