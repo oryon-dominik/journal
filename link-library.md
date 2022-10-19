@@ -453,6 +453,15 @@ https://www.codacy.com/
 User stories and prioritization  
 https://www.productboard.com/  
 
+*Figma*  
+Design & Layouts  
+https://www.figma.com/  
+
+*bubble.io*  
+nocode landing pages & mock-ups  
+https://bubble.io/features  
+
+
 ---
 #TODO:
 
@@ -469,8 +478,6 @@ mongodb
 
 https://www.lexoffice.de/  
 
-Mocks:
-https://bubble.io
 
 Finetuning:
 https://keras.io/examples/nlp/text_classification_with_transformer/
