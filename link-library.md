@@ -269,6 +269,10 @@ https://specificity.keegan.st/
 Collection of design inspirations on the internet.  
 https://godly.website/  
 
+*pnpm*  
+Package manager  
+https://pnpm.io/  
+
 *vercel*  
 frontend deployment as a service  
 https://vercel.com/  
