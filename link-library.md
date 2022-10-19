@@ -119,6 +119,8 @@ High power tools for HTML.
 https://htmx.org/  
 
 
+https://realm.io/
+
 ### Python
 
 *python*  
@@ -264,6 +266,10 @@ https://specificity.keegan.st/
 *godly websites*  
 Collection of design inspirations on the internet.  
 https://godly.website/  
+
+*vercel*  
+frontend deployment as a service  
+https://vercel.com/  
 
 
 ## Cloud
@@ -461,17 +467,13 @@ https://www.figma.com/
 nocode landing pages & mock-ups  
 https://bubble.io/features  
 
+*auth zero*  
+login & single sign on (sso) as a service  
+https://auth0.com/  
 
 ---
-#TODO:
 
 
-
-auth0
-https://auth0.com/
-
-vercel
-https://vercel.com/
 
 mongodb
 + + https://realm.io/
