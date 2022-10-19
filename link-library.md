@@ -270,8 +270,12 @@ Collection of design inspirations on the internet.
 https://godly.website/  
 
 *pnpm*  
-Package manager  
+Fast and disk efficient package manager for js and ts packages  
 https://pnpm.io/  
+
+*capacitor*  
+Native mobile apps with vue and native mobile api support  
+https://capacitorjs.com/  
 
 *vercel*  
 frontend deployment as a service  
