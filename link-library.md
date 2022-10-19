@@ -100,6 +100,10 @@ https://friendda.org/
 Static site generator for Markdown files to ship beautiful documentation websites in no time.
 https://docusaurus.io/  
 
+*Mkdocs*  
+If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
+https://www.mkdocs.org/  
+
 
 ## Backend
 
