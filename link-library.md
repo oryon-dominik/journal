@@ -159,6 +159,10 @@ https://python-poetry.org/
 All algorithms inmplemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
 https://github.com/TheAlgorithms/Python  
 
+*pythex*  
+quickly test python regular expressions  
+https://pythex.org/  
+
 
 #### Some of my favourite modules
 
