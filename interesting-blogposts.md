@@ -211,6 +211,14 @@ Christian Frank
 https://medium.com/@chfrank_cgn/updated-building-a-kubernetes-cluster-on-google-cloud-with-rancher-and-terraform-4ac57d5eb303  
 
 
+## Machine Learning
+
+Text classification with Transformer  
+Apoorv Nandan  
+2020-05-10  
+https://keras.io/examples/nlp/text_classification_with_transformer/  
+
+
 ## MQTT & Raspberry
 
 ESP32, RFID und MQTT (german)  

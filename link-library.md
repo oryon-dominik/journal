@@ -118,8 +118,10 @@ https://actix.rs/
 High power tools for HTML.  
 https://htmx.org/  
 
+*realm.io*  
+alternative to sqlite based on mongodb  
+https://realm.io/  
 
-https://realm.io/
 
 ### Python
 
@@ -471,15 +473,9 @@ https://bubble.io/features
 login & single sign on (sso) as a service  
 https://auth0.com/  
 
----
-
-
-
-mongodb
-+ + https://realm.io/
-
+*lexoffice*  
+langweilige Buchhaltung erledigen  
 https://www.lexoffice.de/  
 
 
-Finetuning:
-https://keras.io/examples/nlp/text_classification_with_transformer/
+---
