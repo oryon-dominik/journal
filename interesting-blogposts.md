@@ -218,6 +218,11 @@ Apoorv Nandan
 2020-05-10  
 https://keras.io/examples/nlp/text_classification_with_transformer/  
 
+Youtube series: Neural Networks: Zero to Hero  
+Andrej Karpathy  
+2022-08-17  
+https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ  
+
 
 ## MQTT & Raspberry
 
