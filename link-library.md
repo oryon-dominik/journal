@@ -104,6 +104,10 @@ https://docusaurus.io/
 If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
 https://www.mkdocs.org/  
 
+*AsyncAPI*  
+Event driven architecture service design tutorial  
+https://www.asyncapi.com/docs/tutorials/getting-started  
+
 
 ## Backend
 
@@ -121,6 +125,10 @@ https://htmx.org/
 *realm.io*  
 alternative to sqlite based on mongodb  
 https://realm.io/  
+
+*doppler.com*  
+Secret and environment managing made easy  
+https://www.doppler.com/  
 
 
 ### Python
