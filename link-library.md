@@ -420,7 +420,7 @@ data scripts into shareable web apps in minutes
 https://streamlit.io/  
 
 *gradio*  
-fast demo for your machine learning model  
+fast demo for your machine learning models  
 https://gradio.app/  
 
 
