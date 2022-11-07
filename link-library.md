@@ -415,6 +415,14 @@ https://lexica.art/
 AI art generation website  
 https://dreamlike.art/  
 
+*streamlit*  
+
+https://streamlit.io/  
+
+*gradio*  
+  
+
+
 
 ## Stars from GitHub
 
