@@ -416,12 +416,12 @@ AI art generation website
 https://dreamlike.art/  
 
 *streamlit*  
-
+data scripts into shareable web apps in minutes  
 https://streamlit.io/  
 
 *gradio*  
-  
-
+fast demo for your machine learning model  
+https://gradio.app/  
 
 
 ## Stars from GitHub
