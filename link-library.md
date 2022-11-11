@@ -423,6 +423,10 @@ https://streamlit.io/
 fast demo for your machine learning models  
 https://gradio.app/  
 
+*mage space*  
+stable diffusion 1.5 online generator
+https://www.mage.space/  
+
 
 ## Stars from GitHub
 
