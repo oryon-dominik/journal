@@ -97,7 +97,7 @@ disclosure agreement between friends
 https://friendda.org/  
 
 *Docusaurus*  
-Static site generator for Markdown files to ship beautiful documentation websites in no time.
+Static site generator for Markdown files to ship beautiful documentation websites in no time.  
 https://docusaurus.io/  
 
 *Mkdocs*  
