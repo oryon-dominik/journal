@@ -310,3 +310,12 @@ Amit Patel - Red Blob Games
 2013-03-01  
 https://www.redblobgames.com/grids/hexagons/  
 
+Best practices for writing code comments  
+Ellen Spertus  
+2021-12-23  
+https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/  
+
+Code Tells You How, Comments Tell You Why  
+Jeff Atwood  
+2006-12-18  
+https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/  
