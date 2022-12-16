@@ -164,7 +164,7 @@ Python packaging and dependency management made easy.
 https://python-poetry.org/  
 
 *the algorithms*  
-All algorithms inmplemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
+All algorithms implemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
 https://github.com/TheAlgorithms/Python  
 
 *pythex*  
