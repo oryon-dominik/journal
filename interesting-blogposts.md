@@ -284,6 +284,7 @@ What have you tried?
 Matt Gemmell  
 2008-12-08  
 https://mattgemmell.com/what-have-you-tried / http://whathaveyoutried.com/  
+https://web.archive.org/web/20190625002625/https://mattgemmell.com/what-have-you-tried/  
 
 The compiler is always right  
 Nathan Froyd  
