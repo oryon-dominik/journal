@@ -138,6 +138,10 @@ https://til.simonwillison.net/awslambda/asgi-mangum
 Henry Schreiner  
 https://iscinumpy.dev/post/bound-version-constraints/  
 
+*Cosmicpython*  
+Okay, this is a book. But it clearly explains the theoretical implications of the repository pattern and other concepts for dependenciy inversion I use in some of my skeletons.  
+https://www.cosmicpython.com/book/preface.html  
+
 
 ## PostgreSQL
 
