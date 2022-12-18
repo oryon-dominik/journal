@@ -549,5 +549,11 @@ https://storyblok.com/
 Crowdfunding platform for social projects  
 https://www.gofundme.com/  
 
+*beautiful.ai*  
+presentation-software  
+https://www.beautiful.ai/  
+
+
+Blogs
 
 ---
