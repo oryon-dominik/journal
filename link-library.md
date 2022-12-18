@@ -554,6 +554,11 @@ presentation-software
 https://www.beautiful.ai/  
 
 
-Blogs
+## Blogs
+
+Simon Willison’s Weblog  
+https://simonwillison.net/  
+
+
 
 ---
