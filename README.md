@@ -6,6 +6,7 @@ Personal &amp; Technical Notes and Documentations
 - [Agile Principles](agile-principles.md)
 - [Interesting Blogposts](interesting-blogposts.md)
 - [Link Library](link-library.md)
+- [Readables](readables.md)
 
 Tutorials on several Topics.  
 
