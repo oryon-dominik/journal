@@ -234,6 +234,10 @@ https://blog.getpelican.com/
 core validation logic for pydantic written in rust  
 https://github.com/pydantic/pydantic-core  
 
+*deutschland*  
+A python package that gives you easy access to the most valuable datasets of Germany.  
+https://github.com/bundesAPI/deutschland  
+
 
 ## Frontend
 
