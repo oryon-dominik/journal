@@ -141,6 +141,10 @@ https://www.python.org/
 Learn python3 the hard way (Commercial).  
 https://learnpythonthehardway.org/python3/  
 
+*python news*  
+pythonic news  
+https://news.python.sc/  
+
 *design patterns in python*  
 Learn design patterns (see: gang of four) in your favourite language.  
 https://refactoring.guru/design-patterns/python  
@@ -225,6 +229,10 @@ https://ibis-project.org/docs/3.1.0/
 *pelican*  
 Static site generator, powered by python.  
 https://blog.getpelican.com/  
+
+*pydantic-core*  
+core validation logic for pydantic written in rust  
+https://github.com/pydantic/pydantic-core  
 
 
 ## Frontend
