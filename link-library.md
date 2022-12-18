@@ -298,7 +298,7 @@ a curated toplist on css resources
 https://dev.to/lissy93/super-useful-css-resources-1ba3  
 
 *tailwind elements*  
-bootstrap styled collection of tailwind components, sections & templates  
+md-bootstrap styled collection of tailwind components, sections & templates  
 https://tailwind-elements.com/  
 
 
