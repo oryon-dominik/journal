@@ -293,9 +293,13 @@ https://capacitorjs.com/
 frontend deployment as a service  
 https://vercel.com/  
 
-
-super useful css resources  
+*super useful css resources*  
+a curated toplist on css resources  
 https://dev.to/lissy93/super-useful-css-resources-1ba3  
+
+*tailwind elements*  
+bootstrap styled collection of tailwind components, sections & templates  
+https://tailwind-elements.com/  
 
 
 ## Cloud
