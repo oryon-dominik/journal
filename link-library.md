@@ -455,6 +455,11 @@ https://gradio.app/
 stable diffusion 1.5 online generator
 https://www.mage.space/  
 
+*fast.ai*  
+machine learning learning resources  
+https://www.fast.ai/  
+https://github.com/fastai/fastbook  
+
 
 ## Stars from GitHub
 
