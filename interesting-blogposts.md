@@ -325,3 +325,9 @@ Code Tells You How, Comments Tell You Why
 Jeff Atwood  
 2006-12-18  
 https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/  
+
+No estimates  
+(A real good talk about what happens if you lie about time)  
+Allen Holub  
+2015-07-06  
+https://www.youtube.com/watch?v=QVBlnCTu9Ms  
