@@ -18,4 +18,9 @@ https://wersdoerfer.de/blogs/ephes_blog/
 Shezi's Blog (Johannes Spielmann)  
 https://shezi.de/  
 
-View
+
+# Viewables
+
+Q&A with Guido van Rossum, Inventor of Python  
+2021-05-14  
+https://www.youtube.com/watch?v=aYbNh3NS7jA  
