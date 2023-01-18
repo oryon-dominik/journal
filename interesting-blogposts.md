@@ -336,3 +336,7 @@ No estimates
 Allen Holub  
 2015-07-06  
 https://www.youtube.com/watch?v=QVBlnCTu9Ms  
+
+What happens when you open a terminal and enter ls  
+
+https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls  
