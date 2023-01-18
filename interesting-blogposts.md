@@ -338,5 +338,6 @@ Allen Holub
 https://www.youtube.com/watch?v=QVBlnCTu9Ms  
 
 What happens when you open a terminal and enter ls  
-
+Suraj Gupta & Andy Carlson  
+2023-01-11  
 https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls  
