@@ -25,5 +25,8 @@ Q&A with Guido van Rossum, Inventor of Python
 2021-05-14  
 https://www.youtube.com/watch?v=aYbNh3NS7jA  
 
-Auditd explained. IppSec.
-https://www.youtube.com/watch?v=lc1i9h1GyMA
+Auditd explained. IppSec.  
+https://www.youtube.com/watch?v=lc1i9h1GyMA  
+
+Why Django json-fixtures are bad  
+https://youtu.be/ickNQcNXiS4?t=985  
