@@ -48,6 +48,11 @@ Jacob Kaplan-Moss
 2020-05-06  
 https://www.youtube.com/watch?v=E613X3RBegI&list=PLqD-1O-TBkB9nG4h8p8bJGQRFUq9dr-O0&t=10s  
 
+Test factory functions in Django  
+Luke Plant  
+2022-11-25  
+https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/  
+
 
 ## Numpy & Rust
 
