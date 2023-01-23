@@ -194,6 +194,8 @@ Artur Janc, Eiji Kitamura & Maud Naplas
 https://web.dev/security-headers/  
 
 
+http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/  
+
 ## Frontend
 
 The Ultimate Guide to handling JWTs on frontend clients (GraphQL)  
