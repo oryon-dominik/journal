@@ -193,8 +193,11 @@ Artur Janc, Eiji Kitamura & Maud Naplas
 2022-02-14  
 https://web.dev/security-headers/  
 
-
+Stop using JWT for sessions  
+Sven Slootweg  
+2016-06-19  
 http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/  
+
 
 ## Frontend
 
