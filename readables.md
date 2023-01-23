@@ -21,6 +21,7 @@ https://shezi.de/
 Brett Cannon' Blog  
 https://snarky.ca/  
 
+
 # Viewables
 
 Q&A with Guido van Rossum, Inventor of Python  
