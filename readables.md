@@ -18,6 +18,8 @@ https://wersdoerfer.de/blogs/ephes_blog/
 Shezi's Blog (Johannes Spielmann)  
 https://shezi.de/  
 
+Brett Cannon' Blog  
+https://snarky.ca/  
 
 # Viewables
 
