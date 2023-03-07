@@ -351,3 +351,8 @@ Stop saying "technical debt"
 Chelsea Troy  
 2023-02-27  
 https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/  
+
+What Every Computer Scientist Should Know About Floating-Point Arithmetic  
+David Goldberg  
+1991 March  
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html  
