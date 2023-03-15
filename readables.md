@@ -33,3 +33,9 @@ https://www.youtube.com/watch?v=lc1i9h1GyMA
 
 Why Django json-fixtures are bad  
 https://youtu.be/ickNQcNXiS4?t=985  
+
+Daniel Procida - Programming for pleasure - DjangoCon 2021  
+https://www.youtube.com/watch?v=FG6DWXxccKA  
+
+Allen Holub - No Estimates  
+https://www.youtube.com/watch?v=QVBlnCTu9Ms  
