@@ -491,8 +491,9 @@ https://github.com/zardus/wargame-nexus
 Plugin manager for fish.  
 https://github.com/jorgebucaran/fisher  
 
-
-
+*posy*  
+At least a very good idea by Nathaniel Smith to substitute all the annoying python tools with one single rust binary executable  
+https://github.com/njsmith/posy  
 
 *benchmarks for databases using django*  
 Did you need a prove that postgres is fast?  
