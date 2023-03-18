@@ -488,8 +488,11 @@ List of wargames.
 https://github.com/zardus/wargame-nexus  
 
 *fisher*  
-Ny plugin manager for fish.  
+Plugin manager for fish.  
 https://github.com/jorgebucaran/fisher  
+
+
+
 
 *benchmarks for databases using django*  
 Did you need a prove that postgres is fast?  
