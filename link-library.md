@@ -175,6 +175,9 @@ https://github.com/TheAlgorithms/Python
 quickly test python regular expressions  
 https://pythex.org/  
 
+_ruff_  
+central python linting in rust  
+https://github.com/charliermarsh/ruff  
 
 #### Some of my favourite modules
 
