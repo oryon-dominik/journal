@@ -464,6 +464,14 @@ machine learning learning resources
 https://www.fast.ai/  
 https://github.com/fastai/fastbook  
 
+*controlNet*  
+control stable-diffusion output  
+https://github.com/lllyasviel/ControlNet  
+
+*alpaca*  
+host stanfords LLaMA or [alpalca](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
+https://github.com/tatsu-lab/stanford_alpaca  
+
 
 ## Stars from GitHub
 
