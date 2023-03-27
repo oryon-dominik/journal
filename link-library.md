@@ -345,6 +345,9 @@ https://web.dev/fast/
 architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
 https://jamstack.org/  
 
+*vueuse*  
+a lot of essential vue composition utilities  
+https://vueuse.org/  
 
 ## Cloud
 
