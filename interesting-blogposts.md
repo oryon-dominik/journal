@@ -53,6 +53,11 @@ Luke Plant
 2022-11-25  
 https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/  
 
+The Django Developer’s Guide To Vite  
+Alice Ridgway  
+2023-02-01  
+https://ctrlzblog.com/the-django-developers-guide-to-vite/  
+
 
 ## Numpy & Rust
 

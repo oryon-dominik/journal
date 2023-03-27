@@ -337,6 +337,10 @@ https://troisjs.github.io/
 how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
 https://web.dev/fast/  
 
+*jamstack*  
+architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
+https://jamstack.org/  
+
 
 ## Cloud
 
