@@ -158,6 +158,10 @@ https://iscinumpy.dev/post/bound-version-constraints/
 Okay, this is a book. But it clearly explains the theoretical implications of the repository pattern and other concepts for dependenciy inversion I use in some of my skeletons.  
 https://www.cosmicpython.com/book/preface.html  
 
+*Composition over inheritance*  
+Brandon Rhodes  
+2020  
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/  
 
 ## PostgreSQL
 
