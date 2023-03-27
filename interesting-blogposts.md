@@ -235,7 +235,7 @@ Christian Frank
 2021-01-13  
 https://medium.com/@chfrank_cgn/updated-building-a-kubernetes-cluster-on-google-cloud-with-rancher-and-terraform-4ac57d5eb303  
 
-Terraform Tutorial  
+Terraform Tutorial to studfy for the Terraform Associate (003) exam  
 
 https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003  
 
