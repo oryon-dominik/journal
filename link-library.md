@@ -344,9 +344,17 @@ https://www.ansible.com/
 Group containers to applications and load balance 'em.  
 https://kubernetes.io/de/  
 
+*k3s*  
+light weight kubernetes  
+https://k3s.io/  
+
 *flux*  
 Kubernetes cluster management.  
 https://fluxcd.io/  
+
+*kafka*  
+distributed event/data streaming (consume, produce) platform  
+https://kafka.apache.org/  
 
 *drone*  
 Running CI / CD for your projects.  
