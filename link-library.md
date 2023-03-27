@@ -333,8 +333,10 @@ https://tailwind-elements.com/
 ThreeJS 3D effects for vuejs  
 https://troisjs.github.io/  
 
+*fast*  
+how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
+https://web.dev/fast/  
 
-[Tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
 
 ## Cloud
 
