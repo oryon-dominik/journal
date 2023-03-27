@@ -469,7 +469,7 @@ control stable-diffusion output
 https://github.com/lllyasviel/ControlNet  
 
 *alpaca*  
-host stanfords LLaMA or [alpalca](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
+easy to reproduce LLaMA 7B (as [alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) ) Model  
 https://github.com/tatsu-lab/stanford_alpaca  
 
 
