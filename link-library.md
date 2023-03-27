@@ -108,6 +108,10 @@ https://www.mkdocs.org/
 Event driven architecture service design tutorial  
 https://www.asyncapi.com/docs/tutorials/getting-started  
 
+*Application Holotypes*  
+characteristics of real-world applications, a guide to architecture decisions  
+https://jasonformat.com/application-holotypes/  
+
 
 ## Backend
 
@@ -326,6 +330,8 @@ md-bootstrap styled collection of tailwind components, sections & templates
 https://tailwind-elements.com/  
 
 
+[Tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
+
 ## Cloud
 
 *traefik*  
@@ -359,6 +365,10 @@ https://kafka.apache.org/
 *drone*  
 Running CI / CD for your projects.  
 https://www.drone.io/  
+
+*argo CD*  
+declarative continuous delivery tool for kubernetes workflows  
+https://argoproj.github.io/  
 
 *ray*  
 scale AI and python workloads  
