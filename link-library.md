@@ -246,6 +246,10 @@ https://github.com/pydantic/pydantic-core
 A python package that gives you easy access to the most valuable datasets of Germany.  
 https://github.com/bundesAPI/deutschland  
 
+*flit*  
+packaging of Python modules  
+https://github.com/pypa/flit  
+
 
 ## Frontend
 
