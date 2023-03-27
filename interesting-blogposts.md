@@ -235,6 +235,15 @@ Christian Frank
 2021-01-13  
 https://medium.com/@chfrank_cgn/updated-building-a-kubernetes-cluster-on-google-cloud-with-rancher-and-terraform-4ac57d5eb303  
 
+Terraform Tutorial  
+
+https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003  
+
+Microsoft Azure Fundamentals  
+Adam Marczak  
+2020-07-07  
+https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM  
+
 
 ## Machine Learning
 
