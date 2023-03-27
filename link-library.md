@@ -329,6 +329,10 @@ https://hype4.academy/tools/glassmorphism-generator
 md-bootstrap styled collection of tailwind components, sections & templates  
 https://tailwind-elements.com/  
 
+*trois*  
+ThreeJS 3D effects for vuejs  
+https://troisjs.github.io/  
+
 
 [Tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
 
