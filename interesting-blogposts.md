@@ -58,6 +58,12 @@ Alice Ridgway
 2023-02-01  
 https://ctrlzblog.com/the-django-developers-guide-to-vite/  
 
+Django Views — The Right Way  
+Luke Plant  
+2020  
+https://spookylukey.github.io/django-views-the-right-way/  
+(actually I'm not agreeing on this)  
+
 
 ## Numpy & Rust
 
