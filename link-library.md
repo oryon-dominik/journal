@@ -360,6 +360,20 @@ https://kafka.apache.org/
 Running CI / CD for your projects.  
 https://www.drone.io/  
 
+*ray*  
+scale AI and python workloads  
+https://www.ray.io/  
+
+## Data
+
+*cloudpickle*  
+extended pickling support for Python objects, especially useful for cluster computing   
+https://github.com/cloudpipe/cloudpickle  
+
+*msgpack*  
+fast binary serialization, also available as [node-red-node](https://flows.nodered.org/node/node-red-node-msgpack)  
+https://msgpack.org/  
+
 
 ## Shell & Terminal
 
