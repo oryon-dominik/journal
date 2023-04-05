@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=FG6DWXxccKA
 
 Allen Holub - No Estimates  
 https://www.youtube.com/watch?v=QVBlnCTu9Ms  
+
+Jay Alammar - The Narrated Transformer Language Model  
+https://www.youtube.com/watch?v=-QH8fRhqFHM  
