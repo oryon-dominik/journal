@@ -112,7 +112,9 @@ https://www.asyncapi.com/docs/tutorials/getting-started
 characteristics of real-world applications, a guide to architecture decisions  
 https://jasonformat.com/application-holotypes/  
 
-
+*Worldtimebuddy*  
+convenient world clock, time zone converter and online meeting scheduler  
+https://www.worldtimebuddy.com/  
 
 
 ## Backend
