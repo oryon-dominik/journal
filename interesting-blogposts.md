@@ -265,6 +265,11 @@ Jay Alammar
 2018-06-27, updated 2020  
 https://jalammar.github.io/illustrated-transformer/  
 
+What is chat GPT and why does it work?
+Stephen Wolfram  
+2023-02-14  
+https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/  
+
 
 ## MQTT & Raspberry
 
