@@ -525,6 +525,18 @@ https://github.com/lllyasviel/ControlNet
 easy to reproduce LLaMA 7B (as [alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) ) Model  
 https://github.com/tatsu-lab/stanford_alpaca  
 
+*pipeline.ai*  
+Serverless GPU inference for ML models  
+https://www.pipeline.ai/  
+
+*cerebrium.ai*  
+
+https://www.cerebrium.ai/  
+
+*banana.dev*  
+machine learning training on serverless GPUs (A100).
+https://www.banana.dev/  
+
 
 ## Stars from GitHub
 
