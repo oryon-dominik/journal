@@ -530,11 +530,11 @@ Serverless GPU inference for ML models
 https://www.pipeline.ai/  
 
 *cerebrium.ai*  
-
+Serverless GPU Model Deployment  
 https://www.cerebrium.ai/  
 
 *banana.dev*  
-machine learning training on serverless GPUs (A100).
+machine learning training on serverless GPUs (A100)
 https://www.banana.dev/  
 
 
