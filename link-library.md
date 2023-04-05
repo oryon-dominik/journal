@@ -525,6 +525,10 @@ https://github.com/lllyasviel/ControlNet
 easy to reproduce LLaMA 7B (as [alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) ) Model  
 https://github.com/tatsu-lab/stanford_alpaca  
 
+*beam cloud*  
+ML hardware and deployment tool  
+https://www.beam.cloud/  
+
 *pipeline.ai*  
 Serverless GPU inference for ML models  
 https://www.pipeline.ai/  
