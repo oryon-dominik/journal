@@ -548,9 +548,17 @@ https://www.banana.dev/
 
 ## GPT Tools
 
-*pinoccio*
-run "actions" against LLMs
+*pinoccio*  
+run "actions" against LLMs via CLI  
 https://github.com/go-go-golems/geppetto  
+
+*BlenderGPT*  
+Use commands in English to control Blender with OpenAI's GPT-4  
+https://github.com/gd3kr/BlenderGPT  
+
+*scrapeghost*  
+scraping websites using OpenAI's GPT API  
+https://github.com/jamesturk/scrapeghost  
 
 
 ## Stars from GitHub
