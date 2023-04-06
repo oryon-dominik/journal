@@ -542,6 +542,13 @@ machine learning training on serverless GPUs (A100)
 https://www.banana.dev/  
 
 
+## GPT Tools
+
+*pinoccio*
+run "actions" against LLMs
+https://github.com/go-go-golems/geppetto  
+
+
 ## Stars from GitHub
 
 *workadventure*  
