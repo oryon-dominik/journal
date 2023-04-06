@@ -420,6 +420,10 @@ https://starship.rs/
 Terminal  
 https://github.com/alacritty/alacritty  
 
+*kitty*
+Terminal
+https://sw.kovidgoyal.net/kitty/
+
 *Fig*  
 IDE-style autocomplete to terminal  
 https://fig.io/
