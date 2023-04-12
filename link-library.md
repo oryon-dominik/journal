@@ -357,6 +357,10 @@ https://jamstack.org/
 a lot of essential vue composition utilities  
 https://vueuse.org/  
 
+*gridsome*  
+jamstack for vue.js  
+https://gridsome.org/  
+
 *everyone has js, right*
 Do you assume, javascript is always available?
 https://www.kryogenix.org/code/browser/everyonehasjs.html  
