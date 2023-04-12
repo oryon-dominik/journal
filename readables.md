@@ -1,6 +1,8 @@
 
 # Readables
 
+Sources to get your daily dose of TIL (Today I learned).
+
 ## Blogs & other Readables without a specific topic
 
 Simon Willison’s Weblog  
@@ -9,7 +11,7 @@ https://simonwillison.net/
 Simon Willison's Weeknotes  
 https://simonwillison.net/tags/weeknotes/  
 
-Simon Willison's TIL (Today I learned)  
+Simon Willison's TIL  
 https://github.com/simonw/til  
 
 Ephes' Blog (Jochen Wersdörfer)  
@@ -20,6 +22,9 @@ https://shezi.de/
 
 Brett Cannon' Blog  
 https://snarky.ca/  
+
+The scapegoat dev  
+https://the.scapegoat.dev/blog/  
 
 
 # Viewables
