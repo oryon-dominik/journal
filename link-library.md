@@ -265,6 +265,9 @@ https://javascript.info/
 JavaScript with types.  
 https://www.typescriptlang.org/  
 
+Structure and Interpretation of Computer Programs
+https://sourceacademy.org/sicpjs  
+
 *vuejs*  
 Re-written in typescript with composition API.  
 https://v3.vuejs.org/  
