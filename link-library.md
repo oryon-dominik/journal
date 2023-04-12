@@ -353,6 +353,10 @@ https://jamstack.org/
 a lot of essential vue composition utilities  
 https://vueuse.org/  
 
+*everyone has js, right*
+https://www.kryogenix.org/code/browser/everyonehasjs.html  
+
+
 ## Cloud
 
 *traefik*  
