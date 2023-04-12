@@ -265,7 +265,8 @@ https://javascript.info/
 JavaScript with types.  
 https://www.typescriptlang.org/  
 
-Structure and Interpretation of Computer Programs
+*Structure and Interpretation of Computer Programs*  
+The Book by Harold Abelson, Gerald Jay & Julie Sussman originally written with common lisp examples available online  
 https://sourceacademy.org/sicpjs  
 
 *vuejs*  
