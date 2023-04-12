@@ -643,6 +643,10 @@ https://www.productboard.com/
 Design & Layouts  
 https://www.figma.com/  
 
+*Anima*  
+Figma to vue conversion
+https://www.animaapp.com/  
+
 *bubble.io*  
 nocode landing pages & mock-ups  
 https://bubble.io/features  
