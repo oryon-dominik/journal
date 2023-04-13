@@ -558,6 +558,10 @@ https://www.cerebrium.ai/
 machine learning training on serverless GPUs (A100)
 https://www.banana.dev/  
 
+*awesome prompts*  
+prompt curation for ChatGPT engineering  
+https://github.com/f/awesome-chatgpt-prompts  
+
 
 ## GPT Tools
 
