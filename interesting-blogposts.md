@@ -8,8 +8,9 @@ _also includes some other interesting stuff, on the broader topic of computer-sc
 4. [Security](#security)
 5. [Frontend](#frontend)
 6. [Infrastructure](#infrastructure)
-7. [MQTT & Raspberry](#mqtt-&-raspberry)
-8. [General](#general)
+7. [MachineLearning](#machine%20learning)
+8. [MQTT & Raspberry](#mqtt-&-raspberry)
+9. [General](#general)
 
 
 ## Django
@@ -274,6 +275,11 @@ What is chat GPT and why does it work?
 Stephen Wolfram  
 2023-02-14  
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/  
+
+MusicLM: Generating Music From Text  
+Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank  
+2023-01-26  
+https://arxiv.org/abs/2301.11325  
 
 
 ## MQTT & Raspberry
