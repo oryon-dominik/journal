@@ -20,6 +20,9 @@ https://wersdoerfer.de/blogs/ephes_blog/
 Shezi's Blog (Johannes Spielmann)  
 https://shezi.de/  
 
+Bithives Weeknotes  
+https://blog.bithive.space/weeknotes/  
+
 Brett Cannon' Blog  
 https://snarky.ca/  
 
