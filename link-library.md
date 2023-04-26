@@ -357,6 +357,10 @@ https://jamstack.org/
 a lot of essential vue composition utilities  
 https://vueuse.org/  
 
+*vue-macros*  
+macros and syntax sugar to vue  
+https://vue-macros.sxzz.moe/  
+
 *gridsome*  
 jamstack for vue.js  
 https://gridsome.org/  
@@ -687,5 +691,8 @@ https://www.beautiful.ai/
 Terminbuchung  
 https://anny.co/  
 
+*squadcast*  
+incident request response plattform
+https://www.squadcast.com/  
 
 ---
