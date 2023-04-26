@@ -699,6 +699,10 @@ https://www.steve.ai/
 Terminbuchung  
 https://anny.co/  
 
+*clickup*  
+productivity and task board tool with a lot of APIs  
+https://clickup.com/  
+
 *squadcast*  
 incident request response plattform
 https://www.squadcast.com/  
