@@ -369,6 +369,10 @@ https://gridsome.org/
 Do you assume, javascript is always available?
 https://www.kryogenix.org/code/browser/everyonehasjs.html  
 
+*qwik*  
+typescript framework for lazy loading small chunks  
+https://qwik.builder.io/  
+
 
 ## Cloud
 
