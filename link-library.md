@@ -66,6 +66,10 @@ https://wormhole.app/
 Write and share markdown.  
 https://hedgedoc.org/  
 
+*pastebin*  
+classic code sharing tool - with burn functionality  
+https://pastebin.com/  
+
 
 ## General
 
