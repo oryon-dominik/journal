@@ -67,7 +67,7 @@ Write and share markdown.
 https://hedgedoc.org/  
 
 *0bin*  
-code sharing tool, like pastebin, with extended burn functionality & written in python  
+code sharing tool, pastebin , with extended burn functionality & written in python  
 https://0bin.net/  
 
 
