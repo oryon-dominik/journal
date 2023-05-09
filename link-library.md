@@ -34,6 +34,7 @@ https://github.com/about
 
 *github-copilot*  
 Faster snippets. Faster coding. Great experience for every-day-tasks.  
+Extendable with [Copilot labs](https://githubnext.com/projects/copilot-labs/)  
 https://copilot.github.com/  
 
 *open github repos in vscode in the browser*  
@@ -257,6 +258,10 @@ https://github.com/bundesAPI/deutschland
 *flit*  
 packaging of Python modules  
 https://github.com/pypa/flit  
+
+*darts*  
+time series forecasting in python  
+https://unit8co.github.io/darts/  
 
 *polars*  
 rust and python API for fast dataframes  
