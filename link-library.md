@@ -347,6 +347,10 @@ https://vercel.com/
 a nice curated toplist on css resources  
 https://dev.to/lissy93/super-useful-css-resources-1ba3  
 
+*css snippets*  
+snippets collection by Ryan Trimble  
+https://ryantrimble.com/blog/my-favorite-css-snippets/  
+
 *neumorphism generator*  
 generate css for buttons with the neumorphism effect  
 https://neumorphism.io/#e0e0e0  
