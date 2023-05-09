@@ -299,6 +299,10 @@ https://www.vuemastery.com/
 Blazingly fast TS devserver.  
 https://vitejs.dev/  
 
+*vuepress*  
+static sites served by vue, supporting [theming](https://v2.vuepress.vuejs.org/guide/theme.html)  
+https://v2.vuepress.vuejs.org/  
+
 *vueuse*  
 Collection of essential Vue Composition Utilities.  
 https://vueuse.org/  
@@ -591,6 +595,10 @@ https://www.banana.dev/
 *awesome prompts*  
 prompt curation for ChatGPT engineering  
 https://github.com/f/awesome-chatgpt-prompts  
+
+*ManimML*  
+animations and visualizations of common machine learning concepts  
+https://github.com/helblazer811/ManimML  
 
 
 ## GPT Tools
