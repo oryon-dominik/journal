@@ -258,6 +258,15 @@ https://github.com/bundesAPI/deutschland
 packaging of Python modules  
 https://github.com/pypa/flit  
 
+*polars*  
+rust and python API for fast dataframes  
+https://www.pola.rs/  
+
+*scalene*  
+python performance optimizer, AI powered  
+for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
+https://github.com/plasma-umass/scalene  
+
 
 ## Frontend
 
