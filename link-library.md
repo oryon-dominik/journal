@@ -442,6 +442,11 @@ https://argoproj.github.io/
 scale AI and python workloads  
 https://www.ray.io/  
 
+*ms azure curriculum*  
+this is the offcial entry level curriculum for the azure administrator  
+https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe  
+
+
 ## Data
 
 *cloudpickle*  
