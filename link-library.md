@@ -446,6 +446,10 @@ https://www.ray.io/
 this is the offcial entry level curriculum for the azure administrator certification  
 https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe  
 
+*Google Cloud Sketchnotes*  
+learn how to become a gcloud engineer  
+https://github.com/priyankavergadia/GCPSketchnote  
+
 
 ## Data
 
