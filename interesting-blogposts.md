@@ -217,6 +217,11 @@ http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-wh
 
 ## Frontend
 
+Rendering on the Web - SSR? Rehydration?  
+Jason Miller & Addy Osmani  
+2023-05-17  
+https://web.dev/rendering-on-the-web/  
+
 The Ultimate Guide to handling JWTs on frontend clients (GraphQL)  
 Vladimir Novick & Tanmai Gopal  
 2019-09-09  
@@ -280,6 +285,11 @@ MusicLM: Generating Music From Text
 Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank  
 2023-01-26  
 https://arxiv.org/abs/2301.11325  
+
+How to make a QR code with Stable Diffusion  
+Andrew Won  
+2023-06-12  
+https://stable-diffusion-art.com/qr-code/  
 
 
 ## MQTT & Raspberry
