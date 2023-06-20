@@ -428,6 +428,7 @@ https://fluxcd.io/
 
 *kafka*  
 distributed event/data streaming (consume, produce) platform  
+-> here is a [cute otter tutorial for kafka](http://www.gentlydownthe.stream/)  
 https://kafka.apache.org/  
 
 *drone*  
