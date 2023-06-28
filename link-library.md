@@ -53,7 +53,7 @@ https://www.gandi.net/en
 Great tool used for virtual WhiteBoard-Templates:  
 Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
 Also mirroring the kanban-workflow from github.  
-https://miro.com/  
+https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
 
 *file.io*  
 Fast file sharing.  
