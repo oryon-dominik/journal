@@ -192,6 +192,10 @@ _ruff_
 central python linting in rust  
 https://github.com/charliermarsh/ruff  
 
+*f-string-help*  
+how did f-strings work again? Padding, transformations, formatting, etc..  
+https://fstring.help/  
+
 
 #### Some of my favourite modules
 
