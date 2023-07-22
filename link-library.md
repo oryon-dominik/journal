@@ -304,6 +304,10 @@ https://pytest.org/
 record http requests to vcr files, that are reusued on testing, if nothing changed  
 https://vcrpy.readthedocs.io/en/latest/  
 
+*hypothesis*  
+property based (random parametrizing) testcases that fuzz your pytests  
+https://github.com/HypothesisWorks/hypothesis  
+
 
 ### Rust
 
