@@ -125,6 +125,10 @@ https://www.worldtimebuddy.com/
 Keyboard based browser, written in python  
 https://qutebrowser.org/  
 
+*godbolt*  
+The compiler explorer, see what your code is actually doing  
+https://godbolt.org/  
+
 
 ## Backend
 
@@ -296,6 +300,33 @@ https://pytest.org/
 *vcrpy*  
 record http requests to vcr files, that are reusued on testing, if nothing changed  
 https://vcrpy.readthedocs.io/en/latest/  
+
+
+### Rust
+
+*rust*
+the language  
+https://www.rust-lang.org/
+
+*rustup*  
+Installation and setup  
+https://rustup.rs/  
+
+*Are we web yet*  
+What web technologies does rust support right now?  
+https://www.arewewebyet.org/  
+
+*serde*  
+serialize and de-serialize data structures (json, pickle, etc) with rust  
+https://serde.rs/  
+
+*rustfmt*  
+format your rust code  
+https://github.com/rust-lang/rustfmt  
+
+*cargo-expand*  
+see results for macro expansion  
+https://github.com/dtolnay/cargo-expand  
 
 
 ## Frontend
