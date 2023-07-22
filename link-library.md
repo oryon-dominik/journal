@@ -748,6 +748,10 @@ https://next.github.com/projects/repo-visualization#explore-for-yourself
 waveform source separation, cut some voices from your songs  
 https://github.com/facebookresearch/demucs  
 
+*neapolitan*  
+quick CRUD views for django  
+https://noumenal.es/neapolitan/  
+
 
 ## Business
 
