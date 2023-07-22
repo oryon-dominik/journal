@@ -121,6 +121,10 @@ https://jasonformat.com/application-holotypes/
 convenient world clock, time zone converter and online meeting scheduler  
 https://www.worldtimebuddy.com/  
 
+*qutebrowser*  
+Keyboard based browser, written in python  
+https://qutebrowser.org/  
+
 
 ## Backend
 
@@ -226,6 +230,10 @@ https://github.com/psf/black
 *rich*  
 Beautiful formatting in the terminal.  
 https://github.com/willmcgugan/rich  
+
+*textual*  
+TUI framework to run applications in a terminal easily  
+https://github.com/textualize/textual/  
 
 *devtools*
 Debug print, prettyprint, breakpoints, timer.  
