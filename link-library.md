@@ -249,7 +249,12 @@ https://blog.getpelican.com/
 
 *pydantic-core*  
 core validation logic for pydantic written in rust  
+actually this should be included in pydantic 2.0 already..  
 https://github.com/pydantic/pydantic-core  
+
+*pydantic to json*  
+convert some json data to pydantic models  
+https://jsontopydantic.com/  
 
 *deutschland*  
 A python package that gives you easy access to the most valuable datasets of Germany.  
