@@ -473,6 +473,10 @@ https://www.terraform.io/
 automate remote machines  
 https://www.ansible.com/  
 
+*podman*  
+manage containers, without root or deamon (as docker does)  
+https://podman.io/  
+
 *kubernetes*  
 Group containers to applications and load balance 'em.  
 https://kubernetes.io/de/  
