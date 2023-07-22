@@ -151,6 +151,9 @@ https://realm.io/
 Secret and environment managing made easy  
 https://www.doppler.com/  
 
+*supabase*  
+open source firebase alternative, using a postgres instance  
+https://supabase.com/  
 
 ### Python
 
