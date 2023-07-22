@@ -826,6 +826,10 @@ https://clickup.com/
 incident request response plattform
 https://www.squadcast.com/  
 
+*visualcapitalist*  
+smart visualisations for economic businesses data  
+https://www.visualcapitalist.com/  
+
 
 ## Commercial
 
