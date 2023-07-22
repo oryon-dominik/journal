@@ -289,6 +289,14 @@ python performance optimizer, AI powered
 for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
 https://github.com/plasma-umass/scalene  
 
+*pytest*  
+write automated tests (yes, you should know this)  
+https://pytest.org/  
+
+*vcrpy*  
+record http requests to vcr files, that are reusued on testing, if nothing changed  
+https://vcrpy.readthedocs.io/en/latest/  
+
 
 ## Frontend
 
@@ -704,6 +712,10 @@ https://github.com/eradman/entr
 *Repo visualization*  
 Visualize & explore github repos  
 https://next.github.com/projects/repo-visualization#explore-for-yourself  
+
+*demucs*  
+waveform source separation, cut some voices from your songs  
+https://github.com/facebookresearch/demucs  
 
 
 ## Business
