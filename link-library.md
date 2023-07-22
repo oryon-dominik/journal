@@ -262,6 +262,10 @@ https://strawberry.rocks/
 Big data wrapper, works with pandas, postgres, raw sql.  
 https://ibis-project.org/docs/3.1.0/  
 
+*pandera*  
+dataframe schema validations  
+https://pandera.readthedocs.io/en/stable/  
+
 *pelican*  
 Static site generator, powered by python.  
 https://blog.getpelican.com/  
