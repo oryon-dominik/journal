@@ -610,6 +610,10 @@ https://github.com/spaze/hashes
 Deniable encryption cryptoarchiver.
 https://github.com/zorggish/FractalCryptGUI  
 
+*Binary Golf*  
+
+https://binary.golf/  
+
 
 ## Machine Learning
 
