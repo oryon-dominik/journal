@@ -611,7 +611,7 @@ Deniable encryption cryptoarchiver.
 https://github.com/zorggish/FractalCryptGUI  
 
 *Binary Golf*  
-
+competition to write the smallest files to serve a purpose (crash a program, replicate itself.. etc)  
 https://binary.golf/  
 
 
