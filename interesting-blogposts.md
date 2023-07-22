@@ -164,6 +164,12 @@ Brandon Rhodes
 2020  
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/  
 
+Subclassing in Python Redux  
+Hynek Schlawack  
+2021-06-22  
+https://hynek.me/articles/python-subclassing-redux/  
+
+
 ## PostgreSQL
 
 Postgres Full Text Search vs the rest  
