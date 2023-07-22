@@ -468,6 +468,10 @@ https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/
 learn how to become a gcloud engineer  
 https://github.com/priyankavergadia/GCPSketchnote  
 
+*localstack*  
+local AWS cloud stack emulator  
+https://github.com/localstack/localstack  
+
 
 ## Data
 
