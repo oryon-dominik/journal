@@ -838,12 +838,15 @@ https://www.squadcast.com/
 smart visualisations for economic businesses data  
 https://www.visualcapitalist.com/  
 
-
 ## Commercial
 
 *monolisa font*  
 a very nice dev font  
 https://www.monolisa.dev/  
+
+*flowiseai*  
+easy LLM flows  
+https://flowiseai.com/  
 
 
 ---
