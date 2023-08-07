@@ -838,6 +838,11 @@ https://www.squadcast.com/
 smart visualisations for economic businesses data  
 https://www.visualcapitalist.com/  
 
+## Other Collectibles  
+*Kotlin is like C#*  
+kotlin vs c#  
+https://ttu.github.io/kotlin-is-like-csharp/  
+
 ## Commercial
 
 *monolisa font*  
