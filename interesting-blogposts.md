@@ -322,7 +322,6 @@ https://plantprogrammer.de/mqtt-auf-dem-raspberry-pi-mosquitto-part-iii/
 
 
 ## Rust
-
 Learning Rust With Entirely Too Many Linked Lists
 https://rust-unofficial.github.io/too-many-lists/
 
