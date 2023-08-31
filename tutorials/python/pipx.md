@@ -18,16 +18,17 @@ Only run a binary once, without installing it on your system. No traces!
 
 Upgrade.
 
-    pytohn -m pipx upgrade-all
+    python -m pipx upgrade-all
 
 
-Example packages.
+Example packages.  `pipx install ...`
 
     poetry
     black
     flake8
     pwntools
     thefuck
+    shell-ai  # requires env: OPENAI_API_KEY
 
     pipx run --spec=chardet chardetect --help
 
