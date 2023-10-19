@@ -26,6 +26,14 @@ Download and install ubuntu-20.04 directly from the Microsoft-Store (recommended
     ~~Invoke-WebRequest -Uri https://aka.ms/wslubuntu2004 -OutFile "$env:USERPROFILE/Downloads/Ubuntu2004.appx" -UseBasicParsing~~
     ~~Add-AppxPackage "$env:USERPROFILE/Downloads/Ubuntu2004.appx"~~
 
+Or install via CLI
+
+```powershell
+wsl --list --online
+
+wsl --install -d Ubuntu-22.04
+```
+
 Verify the installation
 
     wsl --list --verbose
