@@ -223,6 +223,11 @@ http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-wh
 
 ## Frontend
 
+My Custom CSS Reset  
+Josh Comeau  
+2023-06-09  
+https://www.joshwcomeau.com/css/custom-css-reset/  
+
 Rendering on the Web - SSR? Rehydration?  
 Jason Miller & Addy Osmani  
 2023-05-17  

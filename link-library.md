@@ -16,9 +16,9 @@ https://github.com/microsoft/terminal
 Some little bricks from the linux world available on windows.  
 https://docs.microsoft.com/en-us/windows/wsl/install-win10  
 
-*chocolatey*  
+*scoop*  
 Windows package managing.  
-https://chocolatey.org/  
+https://scoop.sh/  
 
 *modern unix*  
 Must have modern shell-command replacements.  
