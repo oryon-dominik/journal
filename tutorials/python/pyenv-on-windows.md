@@ -5,11 +5,11 @@
     I strongly recommend cloning the official `pyenv-win` git-repository to have the latest python-versions available.  
     
     I also heavily recommend to previously CLEAN your `PATH` and remove all other python-versions installed on your system.  
-    Python could have been installed by [chocolatey](https://chocolatey.org/), [(mini-)conda](https://docs.conda.io/en/latest/miniconda.html) or any other sources.
+    Python could have been installed by [chocolatey](https://chocolatey.org/), [(mini-)conda](https://docs.conda.io/en/latest/miniconda.html) , [scoop](https://scoop.sh/) or any other sources.
     Also clean your `PATH` system & users environment variable from any remains. 
     If you're keen on or perfectly able to fix the `PATH`s issues yourself you may choose to install pyenv
-    with `choco install pyenv-win` or as pypi-package with `pip install pyenv-win --target $env:USERPROFILE/.pyenv`  
-    Drawback: You won't get automatic updates on python anymore.  
+    with `scoop bucket add main;scoop install main/pyenv` or `choco install pyenv-win` or as pypi-package with `pip install pyenv-win --target $env:USERPROFILE/.pyenv`  
+    Drawback: You won't get automatic updates on pyenv anymore.  
     
     *Dont' forget to delete the old python shim when using chocolatey* (e.g. in `C:\ProgramData\chocolatey\bin` or the 
     pyenv won't get recognized correctly, because the `chocolatey PATH` has precedence over the local `PATH` pyenv uses.
