@@ -316,6 +316,14 @@ https://github.com/HypothesisWorks/hypothesis
 fast django CRUD  
 https://noumenal.es/neapolitan/  
 
+*environs*  
+env file parsing and environment variable handling  
+https://github.com/sloria/environs  
+
+*textualize*  
+gpraphical user interface in cli applications  
+https://www.textualize.io/  
+
 
 ### Rust
 
