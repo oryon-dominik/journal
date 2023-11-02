@@ -7,10 +7,9 @@
 If you followed the first tutorial [1-post-installation-windows10](1-post-installation-windows10.md) you're
 already set to start with the dotfiles environment. So skip the next paragraph.
 
-Make sure you have installed a [powershell](https://github.com/PowerShell/PowerShell#get-powershell) (This tutorial assumes, youre using `powershell7`), [chocolatey](https://chocolatey.org/) & [git](https://git-scm.com/).
+Make sure you have installed a [powershell](https://github.com/PowerShell/PowerShell#get-powershell) (This tutorial assumes, youre using `powershell7`), [scoop](https://scoop.sh/) & [git](https://git-scm.com/).
 
 Open an admin-powershell.
-
 
 ## Setup your dotfiles repository
 
@@ -67,14 +66,16 @@ Invoke-Expression "$env:DOTFILES/install/windows/InstallAdditionalPowershellModu
 Install packages neccessary for full features and command-availability of these dotfiles.
 
 ```powershell
-choco install "$env:DOTFILES/install/windows/choco_cli_enhanced.config"
+# read and run all packages you want
+cat "$env:DOTFILES/install/windows/scoop-cli-enhanced.list"
 ```
 
 
 Support for C, Go, Rust Haskell, Java & Dotnet compilers + yarn.
 
 ```powershell
-choco install "$env:DOTFILES/install/windows/choco_languages.config"
+# read and run all packages you want
+cat "$env:DOTFILES/install/windows/scoop-langauges.list"
 ```
 
 
@@ -89,11 +90,12 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression "$env:DOTFIL
 Install optional software (If you like, have a look into my essential software packages for everyday work and add them to your system).
 
 ```powershell
-choco install "$env:DOTFILES/install/windows/choco_development.config";
-choco install "$env:DOTFILES/install/windows/choco_security.config";
-choco install "$env:DOTFILES/install/windows/choco_google_web.config";
-choco install "$env:DOTFILES/install/windows/choco_essential_guis.config";
-choco install "$env:DOTFILES/install/windows/choco_media.config";
+# read and run all packages you want
+cat "$env:DOTFILES/install/windows/scoop-development.list"
+cat "$env:DOTFILES/install/windows/scoop-essential-guis.list"
+cat "$env:DOTFILES/install/windows/scoop-media.list"
+cat "$env:DOTFILES/install/windows/scoop-security.list"
+cat "$env:DOTFILES/install/windows/scoop-web.list"
 ;refreshenv
 ```
 
