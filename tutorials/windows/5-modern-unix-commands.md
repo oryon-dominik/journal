@@ -1,6 +1,6 @@
 # Modern unix commands on Windows 10
 
-Pretending you have installed cargo (`choco install rust`). Just install via cargo.
+Pretending you have installed cargo (`scoop bucket add main;scoop install main/rustup`). Just install via cargo.
 
     # (btm) graphical system/process monitor - https://github.com/ClementTsang/bottom
     cargo install bottom --locked

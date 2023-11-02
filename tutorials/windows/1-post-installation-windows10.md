@@ -2,31 +2,36 @@
 
 Open an admin-powershell.
 
-Install powershell 7, start it and set a new profile.
+Then install [scoop](https://scoop.sh/).
 
 ```powershell
-Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
+Set-ExecutionPolicy Bypass -Scope Process -Force
+# maybe: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+irm get.scoop.sh | iex
 ```
 
-Then install [chocolatey](https://chocolatey.org/).
+Install git via scoop.
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-choco feature enable -n allowGlobalConfirmation
+# https://gitforwindows.org/
+scoop bucket add main
+scoop install main/git
 ```
 
-Install git via chocolatey.
+Install powershell via scoop.
 
 ```powershell
-    refreshenv
-    choco install git
+# https://gitforwindows.org/
+scoop bucket add main
+scoop install main/pwsh
+# Install powershell, start it and set a new profile.
 ```
 
 Set up your `ssh-key`.
 
 ```powershell
-    mkdir "$env:USERPROFILE/.ssh/"
-    ssh-keygen -t ecdsa -C "A comment of your choice" -f "$env:USERPROFILE/.ssh/id_ecdsa"
+mkdir "$env:USERPROFILE/.ssh/"
+ssh-keygen -t ecdsa -C "A comment of your choice" -f "$env:USERPROFILE/.ssh/id_ecdsa"
 ```
 
 (Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
