@@ -169,6 +169,10 @@ https://learnpythonthehardway.org/python3/
 pythonic news  
 https://news.python.sc/  
 
+*pypi contents*  
+The contents of PyPI, in numbers  
+https://py-code.org/stats  
+
 *design patterns in python*  
 Learn design patterns (see: gang of four) in your favourite language.  
 https://refactoring.guru/design-patterns/python  
