@@ -1,4 +1,4 @@
-f# Link library
+# Link library
 
 Some introduction to mostly technical topics I find interesting occassionally.  
 Could also be my favourites collection..  
