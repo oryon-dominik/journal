@@ -302,6 +302,11 @@ Andrew Won
 2023-06-12  
 https://stable-diffusion-art.com/qr-code/  
 
+Running my own LLM  
+Nelson Minar  
+2023-08-16  
+https://nelsonslog.wordpress.com/2023/08/16/running-my-own-llm/  
+
 
 ## MQTT & Raspberry
 
