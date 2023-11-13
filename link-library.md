@@ -709,6 +709,10 @@ https://github.com/helblazer811/ManimML
 supercharge your gpt with vector database contexts  
 https://cookbook.openai.com/examples/vector_databases/pinecone/readme  
 
+*langchain*  
+how to build context out of your data for your prompt  
+https://python.langchain.com/docs/get_started/introduction  
+
 
 ## GPT Tools
 
