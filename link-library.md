@@ -705,6 +705,10 @@ https://github.com/f/awesome-chatgpt-prompts
 animations and visualizations of common machine learning concepts  
 https://github.com/helblazer811/ManimML  
 
+*Pinecone*  
+supercharge your gpt with vector database contexts  
+https://cookbook.openai.com/examples/vector_databases/pinecone/readme  
+
 
 ## GPT Tools
 
