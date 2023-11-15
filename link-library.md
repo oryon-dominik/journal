@@ -402,6 +402,10 @@ https://tailwindui.com/
 Animated UI components used along with Tailwind CSS.  
 https://headlessui.dev/  
 
+*pines*  
+tailwind and alpine.js components  
+https://devdojo.com/pines  
+
 *animated tailwind*  
 A configuration to use Animate.css with Tailwind CSS.  
 https://github.com/ikcb/animated-tailwindcss
