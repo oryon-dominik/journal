@@ -402,8 +402,9 @@ https://tailwindui.com/
 Animated UI components used along with Tailwind CSS.  
 https://headlessui.dev/  
 
-h
-https://github.com/vimeshjs/vimesh-headless
+*vimesh-headless*  
+headlessui re-build for alpine.js  
+https://github.com/vimeshjs/vimesh-headless  
 
 *pines*  
 tailwind and alpine.js components  
