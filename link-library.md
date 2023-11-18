@@ -320,6 +320,10 @@ https://github.com/HypothesisWorks/hypothesis
 fast django CRUD  
 https://noumenal.es/neapolitan/  
 
+*django-template-partials*  
+re-using parts of templates all over again  
+https://github.com/carltongibson/django-template-partials  
+
 *environs*  
 env file parsing and environment variable handling  
 https://github.com/sloria/environs  
@@ -327,6 +331,7 @@ https://github.com/sloria/environs
 *textualize*  
 gpraphical user interface in cli applications  
 https://www.textualize.io/  
+
 
 
 ### Rust
