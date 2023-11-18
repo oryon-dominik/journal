@@ -307,6 +307,12 @@ Nelson Minar
 2023-08-16  
 https://nelsonslog.wordpress.com/2023/08/16/running-my-own-llm/  
 
+Goodbye Python, Hello Rust: Building a RAG CLI Application with Orca  
+Santiago Medina  
+2023-11-04  
+running via the LLM orcheastration framework [orca](https://github.com/scrippt-tech/orca)  
+https://huggingface.co/blog/santiagomed/building-a-rag-cli-application-application  
+
 
 ## MQTT & Raspberry
 

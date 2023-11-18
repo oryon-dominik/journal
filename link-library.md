@@ -900,5 +900,9 @@ https://www.monolisa.dev/
 easy LLM flows  
 https://flowiseai.com/  
 
+*zapier*  
+no code automation  
+https://zapier.com/  
+
 
 ---
