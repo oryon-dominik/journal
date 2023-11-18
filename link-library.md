@@ -903,6 +903,10 @@ https://www.monolisa.dev/
 easy LLM flows  
 https://flowiseai.com/  
 
+*mattermost*  
+collaboration hub, like teams  
+https://mattermost.com/  
+
 *zapier*  
 no code automation  
 https://zapier.com/  
