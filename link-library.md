@@ -812,6 +812,9 @@ https://github.com/facebookresearch/demucs
 quick CRUD views for django  
 https://noumenal.es/neapolitan/  
 
+*apistar*  
+define OpenAPI or Swagger schemas in yaml  
+https://github.com/encode/apistar  
 
 ## Business
 
