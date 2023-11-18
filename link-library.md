@@ -360,6 +360,10 @@ https://github.com/rust-lang/rustfmt
 see results for macro expansion  
 https://github.com/dtolnay/cargo-expand  
 
+*graphite*  
+state of the art graphics editing  
+https://graphite.rs/  
+
 
 ## Frontend
 
@@ -874,6 +878,10 @@ https://www.squadcast.com/
 *visualcapitalist*  
 smart visualisations for economic businesses data  
 https://www.visualcapitalist.com/  
+
+*heygen*  
+AI video generator  
+https://www.heygen.com/  
 
 
 ## Other Collectibles  
