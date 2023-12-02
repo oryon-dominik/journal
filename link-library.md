@@ -816,6 +816,11 @@ https://noumenal.es/neapolitan/
 define OpenAPI or Swagger schemas in yaml  
 https://github.com/encode/apistar  
 
+*wtfpython*  
+some of the interesting parts of Python that you might be unaware of  
+https://github.com/satwikkansal/wtfpython  
+
+
 ## Business
 
 *static code analysis*  
