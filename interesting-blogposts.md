@@ -248,6 +248,11 @@ Antony Konstantinidis
 2020-12-18  
 https://vuejs.de/artikel/composition-api-teil-2/  
 
+Reasons to avoid Javascript CDNs  
+[Wesley Aptekar-Cassels](https://blog.wesleyac.com/ "Wesley Aptekar-Cassels")  
+2021-12-10  
+https://blog.wesleyac.com/posts/why-not-javascript-cdn  
+
 
 ## Infrastructure
 
