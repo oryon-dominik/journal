@@ -220,6 +220,11 @@ Sven Slootweg
 2016-06-19  
 http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/  
 
+The problems with forcing regular password expiry  
+2016-10-05  
+Emma W.  
+https://www.ncsc.gov.uk/blog-post/problems-forcing-regular-password-expiry  
+
 
 ## Frontend
 
