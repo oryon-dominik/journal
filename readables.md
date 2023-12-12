@@ -50,3 +50,6 @@ https://www.youtube.com/watch?v=QVBlnCTu9Ms
 
 Jay Alammar - The Narrated Transformer Language Model  
 https://www.youtube.com/watch?v=-QH8fRhqFHM  
+
+The Problem with Time & Timezones - Computerphile  
+https://www.youtube.com/watch?v=-5wpm-gesOY  
