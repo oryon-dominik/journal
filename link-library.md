@@ -525,6 +525,8 @@ Group containers to applications and load balance 'em.
 https://kubernetes.io/de/  
 Be productive fast, while using the cheat-sheet  
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
+test k8s locally, using kind  
+https://kind.sigs.k8s.io/  
 
 *k3s*  
 light weight kubernetes  
