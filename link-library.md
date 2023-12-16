@@ -233,6 +233,8 @@ https://pandas.pydata.org/
 *jupyter*  
 Another developer tool, I use everyday.  
 https://jupyter.org/  
+enhanceable via AI  
+https://github.com/jupyterlab/jupyter-ai
 
 *black*  
 The default code formatter.  
