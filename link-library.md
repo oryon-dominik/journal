@@ -135,6 +135,10 @@ https://godbolt.org/
 HTTP response *status codes*  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status  
 
+*http*  
+what actually is http in the first place?  
+https://developer.mozilla.org/en-US/docs/Web/HTTP  
+
 *actix*  
 A FAST webframework written in rust.  
 https://actix.rs/  
