@@ -323,6 +323,11 @@ Santiago Medina
 running via the LLM orcheastration framework [orca](https://github.com/scrippt-tech/orca)  
 https://huggingface.co/blog/santiagomed/building-a-rag-cli-application-application  
 
+Storing OpenAI embeddings in Postgres with pgvector  
+Greg Richardson  
+2023-02-06  
+https://supabase.com/blog/openai-embeddings-postgres-vector  
+
 
 ## MQTT & Raspberry
 
