@@ -744,7 +744,7 @@ how to build context out of your data for your prompt
 https://python.langchain.com/docs/get_started/introduction  
 
 *mistral*  
-the mistral model, apache license  
+the mistral model, apache 2.0 license  
 https://mistral.ai/  
 
 
