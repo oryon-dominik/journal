@@ -570,6 +570,10 @@ https://github.com/cloudpipe/cloudpickle
 fast binary serialization, also available as [node-red-node](https://flows.nodered.org/node/node-red-node-msgpack)  
 https://msgpack.org/  
 
+*data-to-viz*  
+from data to the most appropriate graph  
+https://www.data-to-viz.com/  
+
 
 ## Shell & Terminal
 

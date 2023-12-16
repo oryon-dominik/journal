@@ -53,8 +53,3 @@ https://www.youtube.com/watch?v=-QH8fRhqFHM
 
 The Problem with Time & Timezones - Computerphile  
 https://www.youtube.com/watch?v=-5wpm-gesOY  
-
-# Funables
-
-The eval game (python fun)  
-https://oskaerik.github.io/theevalgame/  
