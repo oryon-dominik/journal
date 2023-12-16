@@ -523,6 +523,8 @@ https://podman.io/
 *kubernetes*  
 Group containers to applications and load balance 'em.  
 https://kubernetes.io/de/  
+Be productive fast, while using the cheat-sheet  
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
 
 *k3s*  
 light weight kubernetes  
@@ -561,6 +563,9 @@ https://github.com/priyankavergadia/GCPSketchnote
 local AWS cloud stack emulator  
 https://github.com/localstack/localstack  
 
+*serverless*  
+deploy serverless lambdas 
+https://www.serverless.com/  
 
 ## Data
 
