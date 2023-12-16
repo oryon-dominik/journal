@@ -691,8 +691,10 @@ https://www.mage.space/
 
 *fast.ai*  
 machine learning learning resources  
+Practical Deep Learning for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 https://www.fast.ai/  
 https://github.com/fastai/fastbook  
+https://course.fast.ai/  
 
 *controlNet*  
 control stable-diffusion output  
