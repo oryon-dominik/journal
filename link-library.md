@@ -737,7 +737,7 @@ how to build context out of your data for your prompt
 https://python.langchain.com/docs/get_started/introduction  
 
 
-## GPT Tools
+## Gen AI Tools
 
 *pinoccio*  
 run "actions" against LLMs via CLI  
@@ -750,6 +750,10 @@ https://github.com/gd3kr/BlenderGPT
 *scrapeghost*  
 scraping websites using OpenAI's GPT API  
 https://github.com/jamesturk/scrapeghost  
+
+*stable diffusion turbo*  
+SDXL  
+https://clipdrop.co/stable-diffusion-turbo  
 
 
 ## Stars from GitHub
@@ -923,8 +927,12 @@ no code automation
 https://zapier.com/  
 
 *builder.io*  
-figma to code with a visual cms and a visual co-pilot  
+ai: figma to code with a visual cms and a visual co-pilot  
 https://www.builder.io/  
+
+*pika*  
+ai: idea-to-video  
+https://pika.art/  
 
 *refactoring ui*  
 design beautiful user interfaces from a developer's point-of-view.  
