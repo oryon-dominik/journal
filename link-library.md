@@ -743,6 +743,10 @@ https://cookbook.openai.com/examples/vector_databases/pinecone/readme
 how to build context out of your data for your prompt  
 https://python.langchain.com/docs/get_started/introduction  
 
+*mistral*  
+the mistral model, apache license  
+https://mistral.ai/  
+
 
 ## Gen AI Tools
 
