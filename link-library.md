@@ -955,4 +955,8 @@ https://pika.art/
 design beautiful user interfaces from a developer's point-of-view.  
 https://www.refactoringui.com/  
 
+*companisto.com*  
+crowd-investing platform for your startup(s)  
+https://www.companisto.com/de  
+
 ---
