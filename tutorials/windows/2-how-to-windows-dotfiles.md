@@ -16,11 +16,21 @@ Open an admin-powershell.
 Create a directory for the location you want to install your config to. Then set an environment variable (`$env:DOTFILES`) pointing to it.
 
 ```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+```powershell
+Invoke-RestMethod -Uri https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/Install.ps1 | Invoke-Expression
+```
+
+```powershell
 New-Item -Path "$env:USERPROFILE/.dotfiles" -ItemType Directory -Force
 ```
+
 ```powershell
 $env:DOTFILES = Convert-Path "$env:USERPROFILE/.dotfiles"
 ```
+
 ```powershell
 [Environment]::SetEnvironmentVariable("DOTFILES", "$env:DOTFILES", "User")
 ```
@@ -67,7 +77,7 @@ Install packages neccessary for full features and command-availability of these 
 
 ```powershell
 # read and run all packages you want
-cat "$env:DOTFILES/install/windows/scoop-cli-enhanced.list"
+cat "$env:DOTFILES/install/windows/InstallAllSscoop-cli-enhanced.list"
 ```
 
 
