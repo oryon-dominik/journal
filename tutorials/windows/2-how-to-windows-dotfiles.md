@@ -77,7 +77,7 @@ Install packages neccessary for full features and command-availability of these 
 
 ```powershell
 # read and run all packages you want
-cat "$env:DOTFILES/install/windows/InstallAllSscoop-cli-enhanced.list"
+Invoke-Expression "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
 ```
 
 
