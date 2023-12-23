@@ -772,6 +772,10 @@ https://github.com/jamesturk/scrapeghost
 SDXL  
 https://clipdrop.co/stable-diffusion-turbo  
 
+*svg.io*  
+text prompt to svg  
+https://svg.io/  
+
 
 ## Stars from GitHub
 
