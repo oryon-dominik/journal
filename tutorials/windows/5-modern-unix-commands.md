@@ -1,113 +1,67 @@
 # Modern unix commands on Windows 10
 
-Pretending you have installed cargo (`scoop bucket add main;scoop install main/rustup`). Just install via cargo.
+Will install `scoop`, `git`, `rustup`, all cargo modules found in this 
+[cargo-tools list](https://github.com/oryon-dominik/dotfiles/blob/trunk/install/crates/cargo-tools.json)
+and (if you decide to install all additional stuff as well) `golang`, `javascript` and some binaries to your dotfiles and CLI path.
 
-    # (btm) graphical system/process monitor - https://github.com/ClementTsang/bottom
-    cargo install bottom --locked
 
-    # Replacement for ps - https://github.com/dalance/procs
-    cargo install procs --locked
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+```
 
-    # instant overview of which directories are using disk - https://github.com/bootandy/dust
-    cargo install du-dust --locked
+```powershell
+scoop install git
+```
 
-    # CLI benchmarks - https://github.com/sharkdp/hyperfine
-    cargo install hyperfine --locked
+Load the scripts from locally installed dotfiles
 
-    # send HTTP requests - https://github.com/ducaale/xh
-    cargo install xh --locked
+```powershell
+. $(Join-Path -Path "$env:DOTFILES" -ChildPath "install/windows/InstallRust.ps1")
+. $(Join-Path -Path "$env:DOTFILES" -ChildPath "install/windows/InstallModernUnixForWindows.ps1")
+. $(Join-Path -Path "$env:DOTFILES" -ChildPath "install/windows/InstallJavaScript.ps1")
+. $(Join-Path -Path "$env:DOTFILES" -ChildPath "install/windows/InstallGolang.ps1")
+```
 
-    # grahpical directory trees - https://github.com/Canop/broot
-    cargo install broot --locked
+**or** directly from remote.
 
-    # (tldr) Help pages for command-line tools, rust implementation of tldr - https://github.com/dbrgn/tealdeer
-    cargo install tealdeer --locked
+```powershell
+$RustInstallScript = Invoke-WebRequest https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/InstallRust.ps1
+Invoke-Expression $($RustInstallScript.Content)
 
-    # build regexes from CLI-tests https://github.com/pemistahl/grex
-    cargo install grex --locked
+$ModernUnixInstallScript = Invoke-WebRequest https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/InstallModernUnixForWindows.ps1
+Invoke-Expression $($ModernUnixInstallScript.Content)
 
-    # current network utilization - https://github.com/imsnif/bandwhich
-    cargo install bandwhich --locked
+$JavaScriptInstallScript = Invoke-WebRequest https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/InstallJavaScript.ps1
+Invoke-Expression $($JavaScriptInstallScript.Content)
 
-    # statistics about your code - https://github.com/XAMPPRocky/tokei
-    cargo install tokei --locked
+$GoLangInstallScript = Invoke-WebRequest https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/InstallGolang.ps1
+Invoke-Expression $($GoLangInstallScript.Content)
+```
 
-    # field selection from content - https://github.com/theryangeary/choose
-    cargo install choose --locked
+Now run the scripts.
 
-    # simple, fast and user-friendly alternative to 'find' - https://github.com/sharkdp/fd
-    cargo install fd-find --locked
+```powershell
+# Install the dependencies for the packages.
+InstallRustToolchain
+InstallJavaScriptToolchain
+InstallGolangToolchain
+```
 
-    # recursively searches directories for a regex pattern - https://github.com/BurntSushi/ripgrep
-    cargo install ripgrep --locked
-
-    # smarter cd command - https://github.com/ajeetdsouza/zoxide
-    cargo install zoxide --locked
-
-    # cat clone with syntax highlighting and Git integration - https://github.com/sharkdp/bat
-    cargo install bat --locked
-
-    # highlighting for diff - https://github.com/dandavison/delta
-    cargo install git-delta --locked
-
-    # Ping, but with a graph - https://github.com/orf/gping
-    cargo install gping --locked
-
-    # find & replace - https://github.com/chmln/sd
-    cargo install sd --locked
-
+```powershell
+InstallModernUnixToolchain
+```
 
 ## Additional packages.
 
 Create the (gitignored) `.dotfiles/bin` directory if it doesn't exist
 
-    mkdir "$env:DOTFILES/bin" -ErrorAction SilentlyContinue
+```powershell
+mkdir "$env:DOTFILES/bin" -ErrorAction SilentlyContinue
+```
 
+Pick the latest windows executables for these additional packages from github and save them to `$env:DOTFILES/bin`.
 
-### exa
-
-A modern replacement for ls - https://github.com/ogham/exa  
-Manually adding the windows-branch.
-
-    git clone https://github.com/ogham/exa "$env:DOTFILES/bin/exa"
-    # cherry pick the windows fix
-    cd "$env:DOTFILES/bin/exa"
-    git fetch origin pull/820/head:chesterliu/dev/win-support
-    git checkout chesterliu/dev/win-support
-    cargo install --path . --force
-    cd -
-
-
-### dogdns
-
-Dog - command-line DNS client - https://github.com/ogham/dog  
-Compile from source.
-
-    git clone https://github.com/ogham/dog "$env:DOTFILES/bin/dog"
-    cd "$env:DOTFILES/bin/dog"
-    cargo install --path . --force
-    cd -
-
-
-### curlie
-
-Download tarball from https://github.com/rs/curlie/releases/tag/v1.6.7
-unzip twice.. put into your `"$env:DOTFILES/bin"`.
-
-### jq
-
-Command-line JSON processor.  
-Put the latest version from https://github.com/stedolan/jq/releases into your `"$env:DOTFILES/bin"`.
-
-
-### cheat
-
-    go install github.com/cheat/cheat/cmd/cheat@latest
-
-
-### gtop
-
-    npm install gtop -g
-
-
-TODO: add a windows-working version for 'mcfly' https://github.com/cantino/mcfly
+- [dog - dns lookup](https://github.com/ogham/dog/releases)
+- [jq - Command-line JSON processor](https://github.com/stedolan/jq/releases)
+- [curlie - The power of curl, the ease of use of httpie.](https://github.com/rs/curlie/releases)

@@ -2,56 +2,66 @@
 
 > This is about: How-to configure your own dotfile repository
 
+
 ## Prerequisites
 
 If you followed the first tutorial [1-post-installation-windows10](1-post-installation-windows10.md) you're
 already set to start with the dotfiles environment. So skip the next paragraph.
 
-Make sure you have installed a [powershell](https://github.com/PowerShell/PowerShell#get-powershell) (This tutorial assumes, youre using `powershell7`), [scoop](https://scoop.sh/) & [git](https://git-scm.com/).
+Make sure you have installed every prerequisite.
+```powershell
+Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
+# open the new shell now
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+scoop bucket add main
+scoop install main/git
+```
 
-Open an admin-powershell.
+
+Open a powershell.
+
 
 ## Setup your dotfiles repository
 
 Create a directory for the location you want to install your config to. Then set an environment variable (`$env:DOTFILES`) pointing to it.
 
 ```powershell
+# Set the execution policy, to make your scripts executable (You could also
+# elaborate on that to a script-by-script policy).
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
-
-```powershell
-Invoke-RestMethod -Uri https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/Install.ps1 | Invoke-Expression
-```
-
 ```powershell
 New-Item -Path "$env:USERPROFILE/.dotfiles" -ItemType Directory -Force
 ```
-
 ```powershell
 $env:DOTFILES = Convert-Path "$env:USERPROFILE/.dotfiles"
 ```
-
 ```powershell
 [Environment]::SetEnvironmentVariable("DOTFILES", "$env:DOTFILES", "User")
 ```
 
 
-Clone | Fork this dotfile git repository to `$env:DOTFILES`.
+Recommended: Clone | Fork this dotfile git repository to `$env:DOTFILES`.
 
 ```powershell
 git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
-Set the execution policy, to make your scripts executable (You could also
-elaborate on that to a script-by-script policy).
+Install everything from the dotfiles repository.
 
+# ! DEPRECATION WARNING, use this at your own risk. It has changed a lot since I wrote this tutorial.
+Have a look at the code.
+Or ask me to help.
 
 ```powershell
-Set-ExecutionPolicy RemoteSigned
+Invoke-RestMethod -Uri https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/Install.ps1 | Invoke-Expression
 ```
 
+This will:
+
 Make system links from the cloned powershell profile to both of the generic powershell-profile-folders.  
-This will delete the old folders (don't forget to backup your old powershell configs).  
+This will delete the old folders (don't forget to backup your old powershell configs, if you have some).  
 
 Traditional pre-installed powershell.
 ```powershell
@@ -68,7 +78,6 @@ New-Item -Path "$env:USERPROFILE/Documents/PowerShell" -ItemType Junction -Value
 Install the additional powershell-modules.
 
 ```powershell
-refreshenv;
 Set-ExecutionPolicy Bypass -Scope Process -Force;
 Invoke-Expression "$env:DOTFILES/install/windows/InstallAdditionalPowershellModules.ps1"
 ```
@@ -83,16 +92,10 @@ Invoke-Expression "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
 
 Support for C, Go, Rust Haskell, Java & Dotnet compilers + yarn.
 
-```powershell
-# read and run all packages you want
-cat "$env:DOTFILES/install/windows/scoop-langauges.list"
-```
-
 
 The modern unix tools (via rust's package manager `cargo`).
 
 ```powershell
-refreshenv;
 Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression "$env:DOTFILES/install/windows/InstallModernUnixForWindows.ps1"
 ```
 
@@ -101,14 +104,9 @@ Install optional software (If you like, have a look into my essential software p
 
 ```powershell
 # read and run all packages you want
-cat "$env:DOTFILES/install/windows/scoop-development.list"
-cat "$env:DOTFILES/install/windows/scoop-essential-guis.list"
-cat "$env:DOTFILES/install/windows/scoop-media.list"
-cat "$env:DOTFILES/install/windows/scoop-security.list"
-cat "$env:DOTFILES/install/windows/scoop-web.list"
-;refreshenv
+# Have a look: https://github.com/oryon-dominik/dotfiles/blob/trunk/install/scoops/scoop-packages.json
+InstallScoops -essentials $true -categories @("cli", "development", "fonts", "guis", "languages", "media", "security", "web", "deployment")
 ```
-
 
 Now symlink your dotfiles to the installed programs configs. You may get some
 elevation errors, depending on your system-config.  

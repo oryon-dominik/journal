@@ -1,5 +1,9 @@
 # Installation and Setup of python pipx
 
+! deprecation warning, pipx will soon leave my toolchain
+
+# TODO: remove pipx from my toolchain
+
 If you need a certain python binary, almost always [pipx](https://github.com/pypa/pipx) is your preferred tool at hand.
 
 Install 

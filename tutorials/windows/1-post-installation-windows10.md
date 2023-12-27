@@ -1,13 +1,21 @@
 # Windows 10 post-installation
 
-Open an admin-powershell.
+Open a powershell.
+
+Install the modern powershell.
+
+```powershell
+Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
+```
+
+Open the new powershell.
 
 Then install [scoop](https://scoop.sh/).
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
 # maybe: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-irm get.scoop.sh | iex
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 
 Install git via scoop.
@@ -18,16 +26,7 @@ scoop bucket add main
 scoop install main/git
 ```
 
-Install powershell via scoop.
-
-```powershell
-# https://gitforwindows.org/
-scoop bucket add main
-scoop install main/pwsh
-# Install powershell, start it and set a new profile.
-```
-
-Set up your `ssh-key`.
+(Optional) Set up your `ssh-key`.
 
 ```powershell
 mkdir "$env:USERPROFILE/.ssh/"
