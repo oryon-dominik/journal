@@ -10,8 +10,9 @@ already set to start with the dotfiles environment. So skip the next paragraph.
 
 Make sure you have installed every prerequisite.
 ```powershell
+# In an admin shell
 Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
-# open the new shell now
+# open the new shell as a normal user now
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 scoop bucket add main
@@ -55,25 +56,47 @@ Have a look at the code.
 Or ask me to help.
 
 ```powershell
+# Setup git, removes old gitconfig, replaces with symlink from dotfiles and
+# adds a local (non-version-controlled) gitconfig for your user
+. "$env:DOTFILES\install\windows\SetupGit.ps1"
+SetupGit -email $null -name $null
+
+# Delete old powershell profiles and symlink the one from the dotfiles.
+# Make system links from the cloned powershell profile to both of the generic
+# powershell-profile-folders. This will delete the old folders (don't forget to
+# backup your old powershell configs, if you have some).
+. "$env:DOTFILES\install\windows\SymlinkPowershell.ps1"
+SymlinkPowershell
+
+# Install ALL programms
+. "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
+EasyInstall
+
+# Symlink the remaining dotfiles
+. "$env:DOTFILES/install/windows/SymlinkDotfiles.ps1"
+SymlinkDotfiles
+
+# Setup openssh
+. "$env:DOTFILES/install/windows/SetupOpenSSH.ps1"
+SetupSSH
+
+# Also install git-credential-manager-core for https authentication.
+scoop install extras/git-credential-manager
+
+```
+
+---
+
+I don't recommend using anything below this line, it's deprecated and I don't know if it works anymore. I'll keep it here for reference for now.
+It might also be helpful to understand how a more granular installation works.
+
+
+```powershell
+# Full install
 Invoke-RestMethod -Uri https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/Install.ps1 | Invoke-Expression
 ```
 
-This will:
-
-Make system links from the cloned powershell profile to both of the generic powershell-profile-folders.  
-This will delete the old folders (don't forget to backup your old powershell configs, if you have some).  
-
-Traditional pre-installed powershell.
-```powershell
-Remove-Item -Path "$env:USERPROFILE\Documents\WindowsPowerShell" -Recurse -Force;
-New-Item -Path "$env:USERPROFILE/Documents/WindowsPowerShell" -ItemType Junction -Value "$env:DOTFILES/common/powershell"
-```
-Powershell 7.
-```powershell
-Remove-Item -Path "$env:USERPROFILE\Documents\PowerShell" -Recurse -Force;
-New-Item -Path "$env:USERPROFILE/Documents/PowerShell" -ItemType Junction -Value "$env:DOTFILES/common/powershell"
-```
-
+---
 
 Install the additional powershell-modules.
 
@@ -82,52 +105,28 @@ Set-ExecutionPolicy Bypass -Scope Process -Force;
 Invoke-Expression "$env:DOTFILES/install/windows/InstallAdditionalPowershellModules.ps1"
 ```
 
-Install packages neccessary for full features and command-availability of these dotfiles.
+Install packages neccessary for full features and command-availability of these dotfiles.  
+Install optional software (If you like, have a look into my essential software packages for everyday work and add them to your system).  
 
 ```powershell
-# read and run all packages you want
-Invoke-Expression "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
-```
-
-
-Support for C, Go, Rust Haskell, Java & Dotnet compilers + yarn.
-
-
-The modern unix tools (via rust's package manager `cargo`).
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression "$env:DOTFILES/install/windows/InstallModernUnixForWindows.ps1"
-```
-
-
-Install optional software (If you like, have a look into my essential software packages for everyday work and add them to your system).
-
-```powershell
-# read and run all packages you want
+# Read and run all packages you want.
 # Have a look: https://github.com/oryon-dominik/dotfiles/blob/trunk/install/scoops/scoop-packages.json
-InstallScoops -essentials $true -categories @("cli", "development", "fonts", "guis", "languages", "media", "security", "web", "deployment")
+$only_install_essentials = $true
+InstallScoops -essentials $only_install_essentials -categories @("cli", "development", "fonts", "guis", "languages", "media", "security", "web", "deployment")
 ```
 
 Now symlink your dotfiles to the installed programs configs. You may get some
 elevation errors, depending on your system-config.  
-Run the failed lines on an elevated shell again (assuming your user has
+Run the failed lines on an elevated shell again (sudo!) (assuming your user has
 elevation privilege, otherwise you have to fix the paths to match the elevated
 `$env`).
 
 ```powershell
 refreshenv;
 Set-ExecutionPolicy Bypass -Scope Process -Force;
-Invoke-Expression "$env:DOTFILES/install/windows/SymlinkDotfiles.ps1"
+. "$env:DOTFILES/install/windows/SymlinkDotfiles.ps1"
+SymlinkDotfiles
 ```
-
-Touch a dotenv to store your custom environment variables - valid for powershell sessions only.
-```powershell
-$dotenv_path = (Join-Path -Path "$env:DOTFILES" -ChildPath ".env");
-if (!(Test-Path -Path $dotenv_path -PathType Leaf)) {
-    New-Item -ItemType File -Force -Path $dotenv_path
-}
-```
-
 
 You can also add your dotfiles location to explorers quick-access.
 

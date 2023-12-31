@@ -2,13 +2,13 @@
 
 Open a powershell.
 
-Install the modern powershell.
+Install the modern powershell (as an admin).
 
 ```powershell
 Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 ```
 
-Open the new powershell.
+Open the new powershell (as a normal user).
 
 Then install [scoop](https://scoop.sh/).
 
@@ -30,7 +30,7 @@ scoop install main/git
 
 ```powershell
 mkdir "$env:USERPROFILE/.ssh/"
-ssh-keygen -t ecdsa -C "A comment of your choice" -f "$env:USERPROFILE/.ssh/id_ecdsa"
+ssh-keygen -t ed25519 -C "$env:USERPROFILE@$(hostname)" -f "$env:USERPROFILE\.ssh\id_ed25519"
 ```
 
 (Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
