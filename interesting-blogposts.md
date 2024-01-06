@@ -328,6 +328,11 @@ Greg Richardson
 2023-02-06  
 https://supabase.com/blog/openai-embeddings-postgres-vector  
 
+An Intuitive Guide to self-attention in GPT: the venetian masquerade  
+Thomas Wiecki  
+2024-01-04  
+https://twiecki.io/blog/2024/01/04/  
+
 
 ## MQTT & Raspberry
 
