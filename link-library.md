@@ -587,6 +587,10 @@ https://msgpack.org/
 from data to the most appropriate graph  
 https://www.data-to-viz.com/  
 
+*leafmap*  
+geodata viz & geospatial analysis in jupyter  
+https://github.com/opengeos/leafmap  
+
 
 ## Shell & Terminal
 
