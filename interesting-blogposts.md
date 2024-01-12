@@ -456,3 +456,8 @@ What Every Computer Scientist Should Know About Floating-Point Arithmetic
 David Goldberg  
 1991 March  
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html  
+
+What Colour are your bits?  
+Matthew Skala  
+2004-06-10  
+https://ansuz.sooke.bc.ca/entry/23  
