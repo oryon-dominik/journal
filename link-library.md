@@ -595,6 +595,11 @@ https://www.data-to-viz.com/
 geodata viz & geospatial analysis in jupyter  
 https://github.com/opengeos/leafmap  
 
+*zdf: recommendations*  
+how to recommend media, in python, from the offical mediathek  
+https://algorithmen.zdf.de/  
+https://github.com/zdf-opensource/recommendations-pa-base  
+
 
 ## Shell & Terminal
 
