@@ -252,9 +252,9 @@ https://github.com/willmcgugan/rich
 TUI framework to run applications in a terminal easily  
 https://github.com/textualize/textual/  
 
-*devtools*
+*devtools*  
 Debug print, prettyprint, breakpoints, timer.  
-https://python-devtools.helpmanual.io/
+https://python-devtools.helpmanual.io/  
 
 *pendulum*  
 Python datetimes made easy.  
