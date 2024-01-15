@@ -685,7 +685,7 @@ PHP hash collisions.
 https://github.com/spaze/hashes  
 
 *Fractal Crypt*  
-Deniable encryption cryptoarchiver.
+Deniable encryption cryptoarchiver.  
 https://github.com/zorggish/FractalCryptGUI  
 
 *Binary Golf*  
@@ -743,7 +743,7 @@ Serverless GPU Model Deployment
 https://www.cerebrium.ai/  
 
 *banana.dev*  
-machine learning training on serverless GPUs (A100)
+machine learning training on serverless GPUs (A100)  
 https://www.banana.dev/  
 
 *awesome prompts*  
@@ -769,8 +769,12 @@ https://mistral.ai/
 
 ## Gen AI Tools
 
+*llm*  
+Access large language models from the command-line  
+https://github.com/simonw/llm  
+
 *pinoccio*  
-run "actions" against LLMs via CLI  
+alternative: run "actions" against LLMs via CLI  
 https://github.com/go-go-golems/geppetto  
 
 *BlenderGPT*  
