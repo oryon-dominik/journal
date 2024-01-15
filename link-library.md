@@ -505,6 +505,10 @@ https://www.kryogenix.org/code/browser/everyonehasjs.html
 typescript framework for lazy loading small chunks  
 https://qwik.builder.io/  
 
+*zod*  
+typescript schema validation  
+https://zod.dev/  
+
 
 ## Cloud
 
