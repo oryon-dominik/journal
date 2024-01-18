@@ -509,6 +509,12 @@ https://qwik.builder.io/
 typescript schema validation  
 https://zod.dev/  
 
+*hypermedia-systems*  
+Web Applications with Htmx  
+Part 2 of the very nice book [hypermedia-systems](https://hypermedia.systems/)  
+by Carson Gross, Adam Stepinski, Deniz Aksimsek  
+https://hypermedia.systems/book/part/htmx/  
+
 
 ## Cloud
 
