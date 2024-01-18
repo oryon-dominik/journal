@@ -258,6 +258,10 @@ Reasons to avoid Javascript CDNs
 2021-12-10  
 https://blog.wesleyac.com/posts/why-not-javascript-cdn  
 
+Hypermedia-Driven Web Applications with Htmx  
+Part 2 of the very nice book by [hypermedia-systems](https://hypermedia.systems/)
+https://hypermedia.systems/book/part/htmx/  
+
 
 ## Infrastructure
 
