@@ -1,5 +1,8 @@
 # Installation and Setup of python poetry on windows with powershell
 
+
+Attention: poetry is very annoying, and i'll try to replace it as soon as I can.
+
 ## Installation
 
 1. Install [poetry](https://python-poetry.org/)

@@ -2,7 +2,9 @@
 
 1. Install `pyenv-win`
 
-    I strongly recommend cloning the official `pyenv-win` git-repository to have the latest python-versions available.  
+	*TLDR*:  a good idea: `scoop install main/pyenv`.
+
+    I strongly recommend cloning the official `pyenv-win` git-repository to have the latest python-versions available though.  
     
     I also heavily recommend to previously CLEAN your `PATH` and remove all other python-versions installed on your system.  
     Python could have been installed by [chocolatey](https://chocolatey.org/), [(mini-)conda](https://docs.conda.io/en/latest/miniconda.html) , [scoop](https://scoop.sh/) or any other sources.
