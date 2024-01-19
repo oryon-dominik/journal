@@ -333,6 +333,11 @@ Thomas Wiecki
 2024-01-04  
 https://twiecki.io/blog/2024/01/04/  
 
+A flexible Q&A-chat-app for your selection of documents with langchain, Streamlit and chatGPT  
+Ulf Morys (syrom)  
+2024-01-01  
+https://medium.com/@syrom_85473/a-flexible-q-a-chat-app-for-your-selection-of-documents-with-langchain-streamlit-and-chatgpt-8205c403a818  
+
 
 ## MQTT & Raspberry
 
