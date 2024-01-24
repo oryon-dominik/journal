@@ -776,6 +776,10 @@ https://python.langchain.com/docs/get_started/introduction
 the mistral model, apache 2.0 license  
 https://mistral.ai/  
 
+*Ollama*  
+Get up and running with Llama 2, Mistral, and other large language models locally.  
+https://github.com/ollama/ollama  
+
 
 ## Gen AI Tools
 
