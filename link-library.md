@@ -129,6 +129,10 @@ https://qutebrowser.org/
 The compiler explorer, see what your code is actually doing  
 https://godbolt.org/  
 
+*What pwa can do today*  
+what is possible with Progressive Web Apps  
+https://whatpwacando.today/  
+
 
 ## Backend
 
