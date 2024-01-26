@@ -53,3 +53,19 @@ Activate wsl and setup user and root password
     wsl
 
 You're on a native ubuntu environment now. Time to setup your [ubuntu dotfiles](../ubuntu/1-how-to-ubuntu-dotfiles.md)
+
+---
+
+### podman vpn fixes
+
+```bash
+wsl -d podman-machine-default
+sudo tee /etc/wsl.conf << EOF  
+  [network]  
+  generateResolvConf = false  
+EOF
+sudo rm -rf /etc/resolv.conf
+echo "nameserver 1.1.1.1" | sudo tee /etc/resolv.conf
+```
+
+you might also need [wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit)
