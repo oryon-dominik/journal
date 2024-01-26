@@ -69,3 +69,6 @@ echo "nameserver 1.1.1.1" | sudo tee /etc/resolv.conf
 ```
 
 you might also need [wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit)
+```powershell
+wsl --import wsl-vpnkit . ./wsl-vpnkit.tar.gz
+```
