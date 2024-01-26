@@ -79,3 +79,7 @@ wsl.exe -d wsl-vpnkit --cd /app wsl-vpnkit
 
 Probably you could also set this up as a systemd service in your podman distro: https://github.com/sakai135/wsl-vpnkit  
 
+```powershell
+# In **~/.docker/config.json** change **credsStore** to **credStore**
+```
+
