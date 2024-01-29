@@ -780,6 +780,10 @@ https://mistral.ai/
 Get up and running with Llama 2, Mistral, and other large language models locally.  
 https://github.com/ollama/ollama  
 
+*lumiere*  
+alphabet just released this crazy video generating ai  
+https://lumiere-video.github.io/  
+
 
 ## Gen AI Tools
 
