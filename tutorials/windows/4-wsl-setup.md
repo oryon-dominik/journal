@@ -83,3 +83,8 @@ Probably you could also set this up as a systemd service in your podman distro: 
 # In **~/.docker/config.json** change **credsStore** to **credStore**
 ```
 
+
+add resolving to etc/hosts (win: windows/system32/drivers/etc.hosts)
+```powershell
+127.0.0.1 host.containers.internal 
+```
