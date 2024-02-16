@@ -1,4 +1,9 @@
-Install & prepare podman on windows.
+
+Install & configure podman on windows.
+
+Assumes a [prepared wsl](https://github.com/oryon-dominik/dotfiles/blob/trunk/common/wsl/get-wsl-runnning.md).
+
+## Install
 
 ``` powershell
 scoop install main/podman
@@ -8,6 +13,8 @@ scoop install main/docker-compose
 podman machine init
 podman machine start
 ```
+
+## Config
 
 ```powershell
 wsl -d podman-machine-default
