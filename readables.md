@@ -58,3 +58,6 @@ https://www.youtube.com/watch?v=-QH8fRhqFHM
 
 The Problem with Time & Timezones - Computerphile  
 https://www.youtube.com/watch?v=-5wpm-gesOY  
+
+Andrej Karpathy - Let's build GPT: from scratch, in code, spelled out.
+https://www.youtube.com/watch?v=kCc8FmEb1nY
