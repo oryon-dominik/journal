@@ -61,3 +61,4 @@ https://www.youtube.com/watch?v=-5wpm-gesOY
 
 Andrej Karpathy - Let's build GPT: from scratch, in code, spelled out.
 https://www.youtube.com/watch?v=kCc8FmEb1nY
+https://tiktokenizer.vercel.app/
