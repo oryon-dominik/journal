@@ -7,7 +7,7 @@ Assumes a [prepared wsl](https://github.com/oryon-dominik/dotfiles/blob/trunk/co
 
 ``` powershell
 scoop install main/podman
-scoop install main/podman-desktop
+scoop install extras/podman-desktop
 scoop install main/docker-compose
 
 podman machine init
