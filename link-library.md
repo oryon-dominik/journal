@@ -787,6 +787,10 @@ https://lumiere-video.github.io/
 
 ## Gen AI Tools
 
+*gen ai guidebook*  
+This is a comprehensive resource for folks to get started in GenAI  
+https://ravinkumar.com/GenAiGuidebook/book_intro.html  
+
 *llm*  
 Access large language models from the command-line  
 https://github.com/simonw/llm  
