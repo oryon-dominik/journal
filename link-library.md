@@ -342,6 +342,9 @@ https://github.com/sloria/environs
 gpraphical user interface in cli applications  
 https://www.textualize.io/  
 
+*taipy*  
+fast data to gui framework  
+https://www.taipy.io/  
 
 
 ### Rust
