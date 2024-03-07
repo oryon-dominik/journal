@@ -889,6 +889,10 @@ https://github.com/encode/apistar
 some of the interesting parts of Python that you might be unaware of  
 https://github.com/satwikkansal/wtfpython  
 
+*awesome-selfhosted*  
+
+https://github.com/awesome-selfhosted/awesome-selfhosted  
+
 
 ## Business
 
