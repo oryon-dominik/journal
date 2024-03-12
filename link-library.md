@@ -71,6 +71,10 @@ https://hedgedoc.org/
 code sharing tool, pastebin , with extended burn functionality & written in python  
 https://0bin.net/  
 
+*privatebin*  
+actually a fork of zerobin, self-hosteable  
+https://privatebin.info/  
+
 
 ## General
 
