@@ -52,8 +52,13 @@ Recommended: Clone | Fork this dotfile git repository to `$env:DOTFILES`.
 git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
+Then run the installation preparation script.
+```powershell
+iex "$env:DOTFILES/install/windows/InstallPrepare.ps1"
+```
 
-Then re-open as admin and run the preparation installation script.
+
+Then re-open as admin and run the admin-installation script.
 
 ```powershell
 iex "$env:DOTFILES/install/windows/InstallAdmin.ps1"
