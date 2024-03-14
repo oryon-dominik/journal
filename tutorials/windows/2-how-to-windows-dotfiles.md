@@ -49,7 +49,7 @@ Recommended: Clone | Fork this dotfile git repository to `$env:DOTFILES`.
 git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
-Run the installation script.
+Run the installation script (as admin).
 
 ```powershell
 iex "$env:DOTFILES/install/windows/install.ps1"
