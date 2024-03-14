@@ -26,6 +26,12 @@ scoop bucket add main
 scoop install main/git
 ```
 
+(Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
+
+```powershell
+Rename-Computer -ComputerName $env:computername -NewName "enceladus"
+```
+
 (Optional) Set up your `ssh-key`.
 
 ```powershell
@@ -33,10 +39,5 @@ mkdir "$env:USERPROFILE/.ssh/"
 ssh-keygen -t ed25519 -C "$env:USERPROFILE@$(hostname)" -f "$env:USERPROFILE\.ssh\id_ed25519"
 ```
 
-(Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
-
-```powershell
-Rename-Computer -ComputerName $env:computername -NewName "enceladus"
-```
 
 Reboot, [setup dotfiles](2-how-to-windows-dotfiles.md).
