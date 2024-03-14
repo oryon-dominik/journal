@@ -49,6 +49,14 @@ Recommended: Clone | Fork this dotfile git repository to `$env:DOTFILES`.
 git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
+Run the installation script.
+
+```powershell
+iex "$env:DOTFILES/install/windows/install.ps1"
+```
+
+
+
 Install everything from the dotfiles repository.
 
 # ! DEPRECATION WARNING, use this at your own risk. It has changed a lot since I wrote this tutorial.
