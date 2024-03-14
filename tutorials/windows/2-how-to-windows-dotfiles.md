@@ -32,12 +32,15 @@ Create a directory for the location you want to install your config to. Then set
 # (You could also elaborate on that to a script-by-script policy).
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
 ```powershell
 New-Item -Path "$env:USERPROFILE/.dotfiles" -ItemType Directory -Force
 ```
+
 ```powershell
 $env:DOTFILES = Convert-Path "$env:USERPROFILE/.dotfiles"
 ```
+
 ```powershell
 [Environment]::SetEnvironmentVariable("DOTFILES", "$env:DOTFILES", "User")
 ```
@@ -49,10 +52,11 @@ Recommended: Clone | Fork this dotfile git repository to `$env:DOTFILES`.
 git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
-Run the installation script (as admin).
+
+Then re-open as admin and run the preparation installation script.
 
 ```powershell
-iex "$env:DOTFILES/install/windows/install.ps1"
+iex "$env:DOTFILES/install/windows/InstallAdmin.ps1"
 ```
 
 
