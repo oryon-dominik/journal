@@ -36,7 +36,7 @@ scoop install git
 
 ```powershell
 mkdir "$env:USERPROFILE/.ssh/"
-ssh-keygen -t ed25519 -C "$env:USERPROFILE@$(hostname)" -f "$env:USERPROFILE\.ssh\id_ed25519"
+ssh-keygen -t ed25519 -C "$env:USERPROFILE@$(hostname)" -f "$env:USERPROFILE/.ssh/id_ed25519"
 ```
 
 
