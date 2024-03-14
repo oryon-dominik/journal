@@ -22,8 +22,7 @@ Install git via scoop.
 
 ```powershell
 # https://gitforwindows.org/
-scoop bucket add main
-scoop install main/git
+scoop install git
 ```
 
 (Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
