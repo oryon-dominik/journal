@@ -28,8 +28,8 @@ Open a powershell.
 Create a directory for the location you want to install your config to. Then set an environment variable (`$env:DOTFILES`) pointing to it.
 
 ```powershell
-# Set the execution policy, to make your scripts executable (You could also
-# elaborate on that to a script-by-script policy).
+# Set the execution policy, to make your scripts executable for the user 
+# (You could also elaborate on that to a script-by-script policy).
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 ```powershell
