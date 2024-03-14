@@ -8,6 +8,12 @@ Install the modern powershell (as an admin).
 Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 ```
 
+(Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
+
+```powershell
+Rename-Computer -ComputerName $env:computername -NewName "enceladus"
+```
+
 Open the new powershell (as a normal user).
 
 Then install [scoop](https://scoop.sh/).
@@ -25,11 +31,6 @@ Install git via scoop.
 scoop install git
 ```
 
-(Optional) Set a new cool [hostname](http://seriss.com/people/erco/unixtools/hostnames.html) 🌒.
-
-```powershell
-Rename-Computer -ComputerName $env:computername -NewName "enceladus"
-```
 
 (Optional) Set up your `ssh-key`.
 
