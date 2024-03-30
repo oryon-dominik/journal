@@ -6,19 +6,7 @@
 ## Prerequisites
 
 If you followed the first tutorial [1-post-installation-windows10](1-post-installation-windows10.md) you're
-already set to start with the dotfiles environment. So skip the next paragraph.
-
-Make sure you have installed every prerequisite.
-```powershell
-# In an admin shell
-Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
-# open the new shell as a normal user now
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-scoop bucket add main
-scoop install main/git
-```
-
+already set to start with the dotfiles environment. Make sure you have installed every prerequisite.
 
 Open a powershell.
 
@@ -61,7 +49,7 @@ iex "$env:DOTFILES/install/windows/InstallPrepare.ps1"
 Then re-open as admin and run the admin-installation script.
 
 ```powershell
-iex "$env:DOTFILES/install/windows/InstallAdmin.ps1"
+iex "$env:DOTFILES/install/windows/InstallAsAdmin.ps1"
 ```
 
 
