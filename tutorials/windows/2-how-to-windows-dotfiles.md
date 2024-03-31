@@ -60,36 +60,6 @@ Install everything from the dotfiles repository.
 Have a look at the code.
 Or ask me to help.
 
-```powershell
-# Setup git, removes old gitconfig, replaces with symlink from dotfiles and
-# adds a local (non-version-controlled) gitconfig for your user
-. "$env:DOTFILES\install\windows\SetupGit.ps1"
-SetupGit -email $null -name $null
-
-# Delete old powershell profiles and symlink the one from the dotfiles.
-# Make system links from the cloned powershell profile to both of the generic
-# powershell-profile-folders. This will delete the old folders (don't forget to
-# backup your old powershell configs, if you have some).
-. "$env:DOTFILES\install\windows\SymlinkPowershell.ps1"
-SymlinkPowershell
-
-# Install ALL programms
-. "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
-EasyInstall
-
-# Symlink the remaining dotfiles
-. "$env:DOTFILES/install/windows/SymlinkDotfiles.ps1"
-SymlinkDotfiles
-
-# Setup openssh
-. "$env:DOTFILES/install/windows/SetupOpenSSH.ps1"
-SetupSSH
-
-# Also install git-credential-manager-core for https authentication.
-scoop install extras/git-credential-manager
-
-```
-
 ---
 
 I don't recommend using anything below this line, it's deprecated and I don't know if it works anymore. I'll keep it here for reference for now.
