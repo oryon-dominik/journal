@@ -35,12 +35,12 @@ scoop install git
 
 Install the [vs studio build tools](https://aka.ms/vs/17/release/vs_BuildTools.exe).  
 Start.  
-Then select & install `C++-Clang-Compiler ...`, `C++-CLI Tools ...`, `MSVC latest C++ buildtools for your architecture (x64/x86)`, `C++-CMake Tools ...`.
+Then select & install `development with C++`  (`C++-Clang-Compiler ...`, `C++-CLI Tools ...`, `MSVC latest C++ buildtools for your architecture (x64/x86)`, `C++-CMake Tools ...` & `C++ core features`).
 
 ```powershell
-# Add: C, Make, C++
 Invoke-WebRequest https://aka.ms/vs/17/release/vs_BuildTools.exe -OutFile ~\Downloads\vs_BuildTools.exe
-# Start & install..
+Start-Process ~\Downloads\vs_BuildTools.exe -Verb RunAs
+# Now manually install the C++ features..
 ```
 
 
