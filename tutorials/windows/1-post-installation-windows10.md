@@ -31,6 +31,14 @@ Install git via scoop.
 scoop install git
 ```
 
+Install vs studio build tools and add.
+
+```powershell
+# Add: C, Make, C++
+Invoke-WebRequest https://aka.ms/vs/17/release/vs_BuildTools.exe
+```
+
+
 
 (Optional) Set up your `ssh-key`.
 
