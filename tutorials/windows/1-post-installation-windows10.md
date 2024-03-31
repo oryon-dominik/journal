@@ -35,7 +35,7 @@ Install vs studio build tools and add.
 
 ```powershell
 # Add: C, Make, C++
-Invoke-WebRequest https://aka.ms/vs/17/release/vs_BuildTools.exe
+Invoke-WebRequest https://aka.ms/vs/17/release/vs_BuildTools.exe -OutFile ~\Downloads\vs_BuildTools.exe
 ```
 
 
