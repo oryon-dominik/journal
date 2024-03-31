@@ -110,6 +110,8 @@ You can also add your dotfiles location to explorers quick-access.
 ```
 
 
+TODO: check if MC_FLY in your .env might work..
+
 Restart your shell.
 
 From here on you should be good to go and use your config, now feel free to
