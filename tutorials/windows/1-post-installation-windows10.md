@@ -1,8 +1,10 @@
 # Windows 10 post-installation
 
-Open a powershell.
+Install all your latest system-updates.  
 
-Install the modern powershell (as an admin).
+Open a powershell.  
+
+Install the modern powershell (as an admin).  
 
 ```powershell
 Invoke-Expression "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
@@ -31,11 +33,14 @@ Install git via scoop.
 scoop install git
 ```
 
-Install vs studio build tools, start. Then select & install `C++-Clang-Compiler ...`, `MSVC latest C++ buildtools for your architecture (x64/x86)`, `C++-CMake Tools ...`.
+Install the [vs studio build tools](https://aka.ms/vs/17/release/vs_BuildTools.exe).  
+Start.  
+Then select & install `C++-Clang-Compiler ...`, `MSVC latest C++ buildtools for your architecture (x64/x86)`, `C++-CMake Tools ...`.
 
 ```powershell
 # Add: C, Make, C++
 Invoke-WebRequest https://aka.ms/vs/17/release/vs_BuildTools.exe -OutFile ~\Downloads\vs_BuildTools.exe
+# Start & install..
 ```
 
 
