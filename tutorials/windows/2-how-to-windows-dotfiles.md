@@ -6,7 +6,7 @@
 ## Prerequisites
 
 If you followed the first tutorial [1-post-installation-windows10](1-post-installation-windows10.md) you're
-already set to start with the dotfiles environment. Make sure you have installed every prerequisite.
+already set to start with the dotfiles environment. Make sure you have installed every prerequisite (`scoop`, `git`, `powershell > 7` & the `visual studio C++ buildtools`).
 
 Open a powershell.
 
