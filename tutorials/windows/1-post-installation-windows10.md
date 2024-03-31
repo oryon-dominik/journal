@@ -1,6 +1,6 @@
 # Windows 10 post-installation
 
-Install all your latest system-updates.  
+Install all your latest **system-updates**.  
 
 Open a powershell.  
 
@@ -53,4 +53,4 @@ ssh-keygen -t ed25519 -C "$env:USERPROFILE@$(hostname)" -f "$env:USERPROFILE/.ss
 ```
 
 
-Reboot, [setup dotfiles](2-how-to-windows-dotfiles.md).
+**Reboot**, [setup dotfiles](2-how-to-windows-dotfiles.md).
