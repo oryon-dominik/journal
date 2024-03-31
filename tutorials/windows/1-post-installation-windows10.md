@@ -31,7 +31,7 @@ Install git via scoop.
 scoop install git
 ```
 
-Install vs studio build tools and add.
+Install vs studio build tools, start and select `C++/CLI-support`, `MSVC` `Clang-Compiler`, `CMake Tools`, `F# Compiler`.
 
 ```powershell
 # Add: C, Make, C++
