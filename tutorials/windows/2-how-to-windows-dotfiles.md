@@ -53,9 +53,6 @@ iex "$env:DOTFILES/install/windows/InstallAsAdmin.ps1"
 ```
 
 
-
-Install everything from the dotfiles repository.
-
 # ! DEPRECATION WARNING, use this at your own risk. It has changed a lot since I wrote this tutorial.
 Have a look at the code.
 Or ask me to help.
@@ -64,6 +61,10 @@ Or ask me to help.
 
 I don't recommend using anything below this line, it's deprecated and I don't know if it works anymore. I'll keep it here for reference for now.
 It might also be helpful to understand how a more granular installation works.
+
+Now it is the time to customize your `$env:DOTFILES/.env` if you want to change things.  
+
+You are ready to install everything from the dotfiles repository now.
 
 
 ```powershell
