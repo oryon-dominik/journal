@@ -92,8 +92,8 @@ Always read your instructions and feedback on the screen carefully.
 Have a look at the code.  
 Or ask me to help.  
 
-If [mcfly](https://github.com/cantino/mcfly)-history does not work, edit your `$env:DOTFILES/.env` and deactivate it.
+If you want [mcfly](https://github.com/cantino/mcfly)-history (and it does work on your setup), edit your `$env:DOTFILES/.env` and activate it.
 
 ```
-MCFLY_ISACTIVE=false
+MCFLY_ISACTIVE=true
 ```
