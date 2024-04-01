@@ -76,6 +76,8 @@ Install optional software (If you like, have a look into my essential software p
 ```powershell
 # Read and run all packages you want.
 # Have a look: https://github.com/oryon-dominik/dotfiles/blob/trunk/install/scoops/scoop-packages.json
+```powershell
+. "$env:DOTFILES/install/windows/InstallScoopBucketsAndPackages.ps1"
 $only_install_essentials = $true
 InstallScoops -essentials $only_install_essentials -categories @("cli", "development", "fonts", "guis", "languages", "media", "security", "web", "deployment")
 ```
