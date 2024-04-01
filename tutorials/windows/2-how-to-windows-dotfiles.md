@@ -59,19 +59,17 @@ Now re-open a fresh unprivileged users shell and install the essential software 
 EasyInstall -use_defaults $true
 ```
 
-You are ready to install everything else from the dotfiles repository now.  
-Or just start working.  
+Restart your shell.
 
-Always read your instructions and feedback on the screen carefully.  
-Have a look at the code.  
-Or ask me to help.  
+From here on you should be good to go and use your config, now feel free to
+[customize your windows dotfiles](3-customize-windows-dotfiles.md)
+and follow the rest of my tutorial.
 
 ---
 
-It is the time to customize your `$env:DOTFILES/.env` if you want to change things.  
+Customize your `$env:DOTFILES/.env` if you want to change things.  
 
-Install packages neccessary for full features and command-availability of these dotfiles.  
-Install optional software (If you like, have a look into my essential software packages for everyday work and add them to your system).  
+To install optional software, have a look into my essential software packages for everyday work and add them to your system.  
 
 ```powershell
 # Read and run all packages you want.
@@ -88,15 +86,14 @@ You can also add your dotfiles location to explorers quick-access.
 (new-object -com shell.application).Namespace("$env:DOTFILES").Self.InvokeVerb("pintohome")
 ```
 
+### Troubleshooting
+
+Always read your instructions and feedback on the screen carefully.  
+Have a look at the code.  
+Or ask me to help.  
 
 If [mcfly](https://github.com/cantino/mcfly)-history does not work, edit your `$env:DOTFILES/.env` and deactivate it.
 
 ```
 MCFLY_ISACTIVE=false
 ```
-
-Restart your shell.
-
-From here on you should be good to go and use your config, now feel free to
-[customize your windows dotfiles](3-customize-windows-dotfiles.md)
-and follow the rest of my tutorial.
