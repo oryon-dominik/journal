@@ -41,6 +41,7 @@ git clone https://github.com/oryon-dominik/dotfiles "$env:DOTFILES"
 ```
 
 Then run the installation preparation script.
+
 ```powershell
 iex "$env:DOTFILES/install/windows/InstallPrepare.ps1"
 ```
@@ -52,34 +53,21 @@ Then re-open as admin and run the admin-installation script.
 iex "$env:DOTFILES/install/windows/InstallAsAdmin.ps1"
 ```
 
+Now re-open a fresh unprivileged users shell and install the essential software packages.
+```powershell
+. "$env:DOTFILES/install/windows/InstallAllSoftware.ps1"
+EasyInstall -essentials $true
+```
 
-# ! DEPRECATION WARNING, use this at your own risk. It has changed a lot since I wrote this tutorial.
-Have a look at the code.
-Or ask me to help.
+You are ready to install everything else from the dotfiles repository now or just start working.  
+
+Always read your instructions and feedback on the screen carefully.  
+Have a look at the code.  
+Or ask me to help.  
 
 ---
-
-I don't recommend using anything below this line, it's deprecated and I don't know if it works anymore. I'll keep it here for reference for now.
-It might also be helpful to understand how a more granular installation works.
 
 Now it is the time to customize your `$env:DOTFILES/.env` if you want to change things.  
-
-You are ready to install everything from the dotfiles repository now.
-
-
-```powershell
-# Full install
-Invoke-RestMethod -Uri https://raw.githubusercontent.com/oryon-dominik/dotfiles/trunk/install/windows/Install.ps1 | Invoke-Expression
-```
-
----
-
-Install the additional powershell-modules.
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force;
-Invoke-Expression "$env:DOTFILES/install/windows/InstallAdditionalPowershellModules.ps1"
-```
 
 Install packages neccessary for full features and command-availability of these dotfiles.  
 Install optional software (If you like, have a look into my essential software packages for everyday work and add them to your system).  
@@ -91,19 +79,6 @@ $only_install_essentials = $true
 InstallScoops -essentials $only_install_essentials -categories @("cli", "development", "fonts", "guis", "languages", "media", "security", "web", "deployment")
 ```
 
-Now symlink your dotfiles to the installed programs configs. You may get some
-elevation errors, depending on your system-config.  
-Run the failed lines on an elevated shell again (sudo!) (assuming your user has
-elevation privilege, otherwise you have to fix the paths to match the elevated
-`$env`).
-
-```powershell
-refreshenv;
-Set-ExecutionPolicy Bypass -Scope Process -Force;
-. "$env:DOTFILES/install/windows/SymlinkDotfiles.ps1"
-SymlinkDotfiles
-```
-
 You can also add your dotfiles location to explorers quick-access.
 
 ```powershell
@@ -111,7 +86,11 @@ You can also add your dotfiles location to explorers quick-access.
 ```
 
 
-TODO: check if MC_FLY in your .env might work..
+If [mcfly](https://github.com/cantino/mcfly)-history does not work, edit your `$env:DOTFILES/.env` and deactivate it.
+
+```
+MCFLY_ISACTIVE=false
+```
 
 Restart your shell.
 

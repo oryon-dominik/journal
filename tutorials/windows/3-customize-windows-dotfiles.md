@@ -56,5 +56,5 @@ If you have git repositories that should be pulled on an `upgrade`. Put links to
 
 ## shared files
 
-I'm using another repository for logfiles, private notes and backup stuff, that I mount to the `"$env:DOTFILES/shared"` for easy access.  
+I'm using another repository for logfiles, private notes and backup stuff, that I mount to the `"$env:DOTFILES/shared"` (=`$env:DOTFILES_SHARED`)for easy access.  
 If you already have a shared-repository: Clone it into `"$env:DOTFILES/shared"`.
