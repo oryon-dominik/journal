@@ -791,6 +791,14 @@ https://github.com/ollama/ollama
 alphabet just released this crazy video generating ai  
 https://lumiere-video.github.io/  
 
+*ColBERT*  
+Neural serach for large text collections.  
+https://github.com/stanford-futuredata/ColBERT  
+
+*dspy*  
+Optimizations: programm, not prompt foundation models.  
+Some dieas additionally to *ELO* scores for models.
+https://github.com/stanfordnlp/dspy  
 
 ## Gen AI Tools
 
