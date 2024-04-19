@@ -814,6 +814,10 @@ https://github.com/stanfordnlp/dspy
 Industrial-Strength Natural Language Processing
 https://spacy.io/  
 
+*hume.ai*  
+interpret emotional expressions  
+https://www.hume.ai/   
+
 
 ## Gen AI Tools
 
