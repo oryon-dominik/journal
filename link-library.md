@@ -810,6 +810,11 @@ Optimizations: programm, not prompt foundation models.
 Some dieas additionally to *ELO* scores for models.
 https://github.com/stanfordnlp/dspy  
 
+*spacy*  
+Industrial-Strength Natural Language Processing
+https://spacy.io/  
+
+
 ## Gen AI Tools
 
 *gen ai guidebook*  
