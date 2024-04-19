@@ -594,6 +594,12 @@ https://github.com/localstack/localstack
 deploy serverless lambdas 
 https://www.serverless.com/  
 
+*acme.sh*  
+Shell script for automatic ACME (renew and issue certificates).  
+https://github.com/acmesh-official/acme.sh  
+https://acme.sh/  
+
+
 ## Data
 
 *cloudpickle*  
