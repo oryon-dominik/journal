@@ -599,6 +599,10 @@ Shell script for automatic ACME (renew and issue certificates).
 https://github.com/acmesh-official/acme.sh  
 https://acme.sh/  
 
+*httpbin*  
+emulate HTTP requests and responses  
+https://httpbin.org/  
+
 
 ## Data
 
