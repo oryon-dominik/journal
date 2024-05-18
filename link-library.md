@@ -1048,5 +1048,10 @@ https://www.hume.ai/
 Talk to nova.  
 https://www.soulmachines.com/  
 
+## Home
+
+*jellyfin*  
+media streaming  
+https://jellyfin.org/  
 
 ---
