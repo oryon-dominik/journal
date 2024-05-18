@@ -381,6 +381,10 @@ https://github.com/dtolnay/cargo-expand
 state of the art graphics editing  
 https://graphite.rs/  
 
+*zola*  
+and - of course ^ - another static site generator  
+https://www.getzola.org/  
+
 
 ## Frontend
 
