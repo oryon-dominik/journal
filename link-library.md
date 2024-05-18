@@ -845,6 +845,10 @@ https://clipdrop.co/stable-diffusion-turbo
 text prompt to svg  
 https://svg.io/  
 
+*gamma*  
+presentations, documents and websites  
+https://gamma.app/  
+
 
 ## Stars from GitHub
 
