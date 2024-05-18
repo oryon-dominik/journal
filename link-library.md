@@ -627,6 +627,10 @@ how to recommend media, in python, from the offical mediathek
 https://algorithmen.zdf.de/  
 https://github.com/zdf-opensource/recommendations-pa-base  
 
+*pyvis*  
+interactive network visualizations  
+https://pyvis.readthedocs.io/en/latest/  
+
 
 ## Shell & Terminal
 
