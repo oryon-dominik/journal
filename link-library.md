@@ -167,6 +167,14 @@ https://www.doppler.com/
 open source firebase alternative, using a postgres instance  
 https://supabase.com/  
 
+*postgreSQL*  
+open source relational database  
+https://www.postgresql.org/  
+
+*valkey*  
+open source redis fork  
+https://valkey.io/  
+
 ### Python
 
 *python*  
