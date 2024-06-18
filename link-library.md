@@ -358,6 +358,10 @@ https://www.textualize.io/
 fast data to gui framework  
 https://www.taipy.io/  
 
+*monkey type*  
+auto generate static type annotations  
+https://github.com/Instagram/MonkeyType  
+
 
 ### Rust
 
