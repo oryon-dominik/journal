@@ -869,6 +869,10 @@ https://svg.io/
 presentations, documents and websites  
 https://gamma.app/  
 
+*notebooklm*  
+NotebookLM lets you read, take notes, ask questions, organize your ideas  
+https://notebooklm.google/  
+
 
 ## Stars from GitHub
 
