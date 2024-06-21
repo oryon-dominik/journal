@@ -230,6 +230,11 @@ The problems with forcing regular password expiry
 Emma W.  
 https://www.ncsc.gov.uk/blog-post/problems-forcing-regular-password-expiry  
 
+Elliptic Curve Cryptography: a gentle introduction  
+Andrea Corbellini  
+2015-05-17  
+https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/   
+
 
 ## Frontend
 
