@@ -873,6 +873,11 @@ https://gamma.app/
 NotebookLM lets you read, take notes, ask questions, organize your ideas  
 https://notebooklm.google/  
 
+*prompt engineering guide*  
+resources for prompt engineering  
+https://www.promptingguide.ai/  
+
+
 
 ## Stars from GitHub
 
