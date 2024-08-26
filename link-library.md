@@ -739,6 +739,10 @@ https://github.com/zorggish/FractalCryptGUI
 competition to write the smallest files to serve a purpose (crash a program, replicate itself.. etc)  
 https://binary.golf/  
 
+*Trivy*  
+Vulnerability scanner. (misconfigurations, secrets, SBOM, ...) in containers, Kubernetes, repositories ...  
+https://trivy.dev/  
+
 
 ## Machine Learning
 
