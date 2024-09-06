@@ -174,6 +174,16 @@ Alex Molas
 2024-02-05  
 https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html  
 
+*Under the hood of calling C/C++ from Python*  
+Anton Zhdan-Pushkin  
+2020-09-11
+https://azhpushkin.me/posts/python-c-under-the-hood  
+
+*Writing Python Extensions in Assembly*  
+Anthony Shaw  
+2020-08-15  
+https://tonybaloney.github.io/posts/extending-python-with-assembly.html  
+
 
 ## PostgreSQL
 
