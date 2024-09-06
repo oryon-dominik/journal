@@ -1077,6 +1077,11 @@ https://www.hume.ai/
 Talk to nova.  
 https://www.soulmachines.com/  
 
+*scaling champions*  
+scale your sales, german agency with some ideas  
+https://scaling-champions.com/team/  
+
+
 ## Home
 
 *jellyfin*  
