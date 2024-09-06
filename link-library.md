@@ -542,6 +542,10 @@ Part 2 of the very nice book [hypermedia-systems](https://hypermedia.systems/)
 by Carson Gross, Adam Stepinski, Deniz Aksimsek  
 https://hypermedia.systems/book/part/htmx/  
 
+*hyperscript*  
+another front end web development language
+https://hyperscript.org/docs/  
+
 
 ## Cloud
 
@@ -881,6 +885,9 @@ https://notebooklm.google/
 resources for prompt engineering  
 https://www.promptingguide.ai/  
 
+*openmodeldb*  
+database of AI Upscaling models  
+https://openmodeldb.info/  
 
 
 ## Stars from GitHub
