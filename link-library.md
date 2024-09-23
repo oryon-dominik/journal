@@ -342,6 +342,10 @@ https://github.com/HypothesisWorks/hypothesis
 python mutation testing  
 https://mutatest.readthedocs.io/en/latest/   
 
+*nox*  
+automated testing for multi python environments  
+https://nox.thea.codes/en/stable/  
+
 *neapolitan*  
 fast django CRUD  
 https://noumenal.es/neapolitan/  
