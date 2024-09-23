@@ -338,6 +338,10 @@ https://vcrpy.readthedocs.io/en/latest/
 property based (random parametrizing) testcases that fuzz your pytests  
 https://github.com/HypothesisWorks/hypothesis  
 
+*mutatest*  
+python mutation testing  
+https://mutatest.readthedocs.io/en/latest/   
+
 *neapolitan*  
 fast django CRUD  
 https://noumenal.es/neapolitan/  
