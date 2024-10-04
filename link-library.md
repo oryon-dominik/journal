@@ -562,6 +562,14 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 The HTML web semantics cheat sheet  
 https://learntheweb.courses/topics/html-semantics-cheat-sheet/  
 
+*Daisy UI*  
+Component library for tailwind  
+https://daisyui.com/  
+
+*Tailblocks*  
+blocks of MIT licensed tailwind snippets
+https://tailblocks.cc/  
+
 
 ## Cloud
 
