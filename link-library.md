@@ -554,6 +554,14 @@ https://hypermedia.systems/book/part/htmx/
 another front end web development language
 https://hyperscript.org/docs/  
 
+*CSS-tricks*  
+the flexbox layout guide  
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+
+*HTML semantics*  
+The HTML web semantics cheat sheet  
+https://learntheweb.courses/topics/html-semantics-cheat-sheet/  
+
 
 ## Cloud
 
