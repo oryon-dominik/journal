@@ -175,6 +175,10 @@ https://www.postgresql.org/
 open source redis fork  
 https://valkey.io/  
 
+*swagger editor*  
+the editor can live render api docs directly from the openapi.yaml  
+https://editor.swagger.io/  
+
 ### Python
 
 *python*  
