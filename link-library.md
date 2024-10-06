@@ -24,6 +24,10 @@ https://scoop.sh/
 Must have modern shell-command replacements.  
 https://github.com/ibraheemdev/modern-unix  
 
+*terminal trove*  
+I recently discovered the curated showcase for all things temrinal, I'm just using rust packages here  
+https://terminaltrove.com/language/rust/  
+
 *vscode*  
 I'm using it all the time. [Extensions](https://gist.github.com/oryon-dominik/57877d7f983cbdde42d5a8e6c6560c83) & [settings](https://gist.github.com/oryon-dominik/bf2d5a1712b103ed3ac013de209c72d4) available as gists.  
 https://code.visualstudio.com/  
