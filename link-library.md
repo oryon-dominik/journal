@@ -582,6 +582,10 @@ https://tailblocks.cc/
 transforms from one thing to another (like ordinary css to tailwind, or markdown to html, xml2json, etc)  
 https://transform.tools/  
 
+*atomic web design*  
+
+https://bradfrost.com/blog/post/atomic-web-design/  
+
 
 ## Cloud
 
