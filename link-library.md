@@ -586,6 +586,14 @@ https://transform.tools/
 methodology for creating design systems  
 https://bradfrost.com/blog/post/atomic-web-design/  
 
+*slippers*  
+Template component libraries for Django  
+https://mitchel.me/slippers/  
+
+*django-allauth-ui*  
+Nice looking (tailwind) templates for django-allauth  
+https://github.com/danihodovic/django-allauth-ui  
+
 
 ## Cloud
 
