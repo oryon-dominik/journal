@@ -583,7 +583,7 @@ transforms from one thing to another (like ordinary css to tailwind, or markdown
 https://transform.tools/  
 
 *atomic web design*  
-
+methodology for creating design systems  
 https://bradfrost.com/blog/post/atomic-web-design/  
 
 
