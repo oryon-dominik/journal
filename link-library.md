@@ -254,6 +254,10 @@ https://www.djangoproject.com/
 FastAPI framework, high performance, easy to learn, fast to code, ready for production.  
 https://fastapi.tiangolo.com/  
 
+*litestar*  
+another API framework, has some batteries  
+https://litestar.dev/  
+
 *pandas*  
 Data analysis and manipulation.  
 https://pandas.pydata.org/  
