@@ -8,26 +8,6 @@ For the pretty advanced stuff see my collection of [interesting blogposts](https
 
 ## Toolbox
 
-*windows-terminal*  
-Yes, I'm forced to use Windows a lot.  
-https://github.com/microsoft/terminal  
-
-*windows-subsystem-linux*  
-Some little bricks from the linux world available on windows.  
-https://docs.microsoft.com/en-us/windows/wsl/install-win10  
-
-*scoop*  
-Windows package managing.  
-https://scoop.sh/  
-
-*modern unix*  
-Must have modern shell-command replacements.  
-https://github.com/ibraheemdev/modern-unix  
-
-*terminal trove*  
-I recently discovered the curated showcase for all things temrinal, I'm just using rust packages here  
-https://terminaltrove.com/language/rust/  
-
 *vscode*  
 I'm using it all the time. [Extensions](https://gist.github.com/oryon-dominik/57877d7f983cbdde42d5a8e6c6560c83) & [settings](https://gist.github.com/oryon-dominik/bf2d5a1712b103ed3ac013de209c72d4) available as gists.  
 https://code.visualstudio.com/  
@@ -53,11 +33,8 @@ https://www.hetzner.com/unternehmen/ueber-uns
 Domain name registrar.  
 https://www.gandi.net/en  
 
-*miro*  
-Great tool used for virtual WhiteBoard-Templates:  
-Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
-Also mirroring the kanban-workflow from github.  
-https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
+
+## share
 
 *file.io*  
 Fast file sharing.  
@@ -80,7 +57,7 @@ actually a fork of zerobin, self-hosteable
 https://privatebin.info/  
 
 
-## General
+## General coding
 
 *codewars*  
 Practice programming in your favourite language.  
@@ -104,6 +81,19 @@ https://semver.org/
 *hacker laws*  
 Laws, Theories, Principles and Patterns that developers will find useful.  
 https://github.com/dwmkerr/hacker-laws  
+
+
+
+*miro*  
+Great tool used for virtual WhiteBoard-Templates:  
+Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
+Also mirroring the kanban-workflow from github.  
+https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
+
+*scoop*  
+Windows package managing. Yes, I'm forced to do Windows a lot.
+https://scoop.sh/  
+
 
 *FriendDA*  
 disclosure agreement between friends  
@@ -219,9 +209,11 @@ https://github.com/pyenv/pyenv
 Windows-users use pyenv-win.  
 https://github.com/pyenv-win/pyenv-win  
 
-*poetry*  
-Python packaging and dependency management made easy.  
-https://python-poetry.org/  
+*uv*
+I finally managed to replace poetry/pyenv.  
+Manage all your different versions with uv.  
+Python packaging and dependency management made easy and fast.  
+https://docs.astral.sh/uv/
 
 *the algorithms*  
 All algorithms implemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
@@ -706,6 +698,22 @@ https://pyvis.readthedocs.io/en/latest/
 
 ## Shell & Terminal
 
+*windows-terminal*  
+Yes, I'm forced to use Windows a lot.  
+https://github.com/microsoft/terminal  
+
+*Alacritty*  
+Terminal  
+https://github.com/alacritty/alacritty  
+
+*modern unix*  
+Must have modern shell-command replacements.  
+https://github.com/ibraheemdev/modern-unix  
+
+*terminal trove*  
+I recently discovered the curated showcase for all things temrinal, I'm just using rust packages here  
+https://terminaltrove.com/language/rust/  
+
 *Fish*  
 Smart posix shell.  
 https://fishshell.com/  
@@ -713,10 +721,6 @@ https://fishshell.com/
 *Starship*  
 Minimal fast prompt for any shell.  
 https://starship.rs/  
-
-*Alacritty*  
-Terminal  
-https://github.com/alacritty/alacritty  
 
 *kitty*  
 Terminal  
