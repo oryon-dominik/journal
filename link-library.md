@@ -33,6 +33,10 @@ https://www.hetzner.com/unternehmen/ueber-uns
 Domain name registrar.  
 https://www.gandi.net/en  
 
+*scoop*  
+Windows package managing. Yes, I'm forced to do Windows a lot.
+https://scoop.sh/  
+
 
 ## Share something
 
@@ -75,6 +79,10 @@ https://jasonformat.com/application-holotypes/
 Laws, Theories, Principles and Patterns that developers will find useful.  
 https://github.com/dwmkerr/hacker-laws  
 
+*fast*  
+how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
+https://web.dev/fast/  
+
 *AsyncAPI*  
 Event driven architecture service design tutorial  
 https://www.asyncapi.com/docs/tutorials/getting-started  
@@ -82,6 +90,10 @@ https://www.asyncapi.com/docs/tutorials/getting-started
 *What pwa can do today*  
 what is possible with Progressive Web Apps  
 https://whatpwacando.today/  
+
+*jamstack*  
+architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
+https://jamstack.org/  
 
 
 ## Backend
@@ -947,20 +959,10 @@ some of the interesting parts of Python that you might be unaware of
 https://github.com/satwikkansal/wtfpython  
 
 *awesome-selfhosted*  
-
 https://github.com/awesome-selfhosted/awesome-selfhosted  
 
 
-
-
-
-*fast*  
-how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
-https://web.dev/fast/  
-
-*jamstack*  
-architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
-https://jamstack.org/  
+## Other
 
 Didn't I mention *hackernews* yet?  
 https://news.ycombinator.com/  
@@ -976,16 +978,6 @@ https://godbolt.org/
 *swagger editor*  
 the editor can live render api docs directly from the openapi.yaml  
 https://editor.swagger.io/  
-
-*miro*  
-Great tool used for virtual WhiteBoard-Templates:  
-Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
-Also mirroring the kanban-workflow from github.  
-https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
-
-*scoop*  
-Windows package managing. Yes, I'm forced to do Windows a lot.
-https://scoop.sh/  
 
 *FriendDA*  
 disclosure agreement between friends  
@@ -1003,12 +995,9 @@ https://www.mkdocs.org/
 Keyboard based browser, written in python  
 https://qutebrowser.org/  
 
-*doppler.com*  
-Secret and environment managing made easy  
-https://www.doppler.com/  
-
-
-
+*Kotlin is like C#*  
+kotlin vs c#  
+https://ttu.github.io/kotlin-is-like-csharp/  
 
 
 ## Business
@@ -1017,6 +1006,10 @@ https://www.doppler.com/
 Automated code reviews on commits and pull requests  
 https://www.codacy.com/  
 
+*doppler.com*  
+Secret and environment managing made easy  
+https://www.doppler.com/  
+
 *product management*  
 User stories and prioritization  
 https://www.productboard.com/  
@@ -1024,6 +1017,12 @@ https://www.productboard.com/
 *Figma*  
 Design & Layouts  
 https://www.figma.com/  
+
+*miro*  
+Great tool used for virtual WhiteBoard-Templates:  
+Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
+Also mirroring the kanban-workflow from github.  
+https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
 
 *Anima*  
 Figma to vue conversion
@@ -1080,12 +1079,6 @@ https://www.visualcapitalist.com/
 *heygen*  
 AI video generator  
 https://www.heygen.com/  
-
-
-## Other Collectibles  
-*Kotlin is like C#*  
-kotlin vs c#  
-https://ttu.github.io/kotlin-is-like-csharp/  
 
 
 ## Commercial
