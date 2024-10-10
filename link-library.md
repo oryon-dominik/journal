@@ -94,7 +94,7 @@ what actually is http in the first place?
 https://developer.mozilla.org/en-US/docs/Web/HTTP  
 
 
-## Databases
+### Databases
 
 *realm.io*  
 alternative to sqlite based on mongodb  
@@ -113,7 +113,7 @@ open source redis fork
 https://valkey.io/  
 
 
-## Python
+### Python
 
 *python*  
 Parseltongue, my language of choice.  
@@ -162,7 +162,7 @@ https://docs.quantifiedcode.com/python-anti-patterns/
 All algorithms implemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
 https://github.com/TheAlgorithms/Python  
 
-### Some of my favourite modules
+#### Some of my favourite modules
 
 *httpx*  
 A next-generation HTTP client for python.  
@@ -289,7 +289,6 @@ python performance optimizer, AI powered
 for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
 https://github.com/plasma-umass/scalene  
 
-
 *monkey type*  
 auto generate static type annotations  
 https://github.com/Instagram/MonkeyType  
@@ -335,6 +334,95 @@ https://www.getzola.org/
 
 
 ## Frontend
+
+*atomic web design*  
+methodology for creating design systems  
+https://bradfrost.com/blog/post/atomic-web-design/  
+
+*HTML semantics*  
+The HTML web semantics cheat sheet  
+https://learntheweb.courses/topics/html-semantics-cheat-sheet/  
+
+*htmx*  
+High power tools for HTML.  
+https://htmx.org/  
+
+*hypermedia-systems*  
+Web Applications with Htmx  
+Part 2 of the very nice book [hypermedia-systems](https://hypermedia.systems/)  
+by Carson Gross, Adam Stepinski, Deniz Aksimsek  
+https://hypermedia.systems/book/part/htmx/  
+
+*hyperscript*  
+another front end web development language
+https://hyperscript.org/docs/  
+
+*slippers*  
+Template component libraries for Django  
+https://mitchel.me/slippers/  
+
+*django-allauth-ui*  
+Nice looking (tailwind) templates for django-allauth  
+https://github.com/danihodovic/django-allauth-ui  
+
+### CSS
+
+*tailwind*  
+The rapid css framework.  
+https://tailwindcss.com/  
+
+*tailwindui*  
+UI-components for tailwind (Commercial).  
+https://tailwindui.com/  
+
+*headlessui*  
+Animated UI components used along with Tailwind CSS.  
+https://headlessui.dev/  
+
+*vimesh-headless*  
+headlessui re-build for alpine.js  
+https://github.com/vimeshjs/vimesh-headless  
+
+*pines*  
+tailwind and alpine.js components  
+https://devdojo.com/pines  
+
+*animated tailwind*  
+A configuration to use Animate.css with Tailwind CSS.  
+https://github.com/ikcb/animated-tailwindcss
+
+*cssgradient*  
+Easy gradient control.  
+https://cssgradient.io/  
+
+*Specifity Calculator*  
+A visual way to understand CSS specificity.  
+https://specificity.keegan.st/  
+
+*CSS-tricks*  
+the flexbox layout guide  
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+
+*Daisy UI*  
+Component library for tailwind  
+https://daisyui.com/  
+
+*Tailblocks*  
+blocks of MIT licensed tailwind snippets
+https://tailblocks.cc/  
+
+*super useful css resources*  
+a nice curated toplist on css resources  
+https://dev.to/lissy93/super-useful-css-resources-1ba3  
+
+*css snippets*  
+snippets collection by Ryan Trimble  
+https://ryantrimble.com/blog/my-favorite-css-snippets/  
+
+*tailwind elements*  
+md-bootstrap styled collection of tailwind components, sections & templates  
+https://tailwind-elements.com/  
+
 
 ### javascript / typescript
 
@@ -410,54 +498,6 @@ https://qwik.builder.io/
 typescript schema validation  
 https://zod.dev/  
 
-
-### css
-
-*tailwind*  
-The rapid css framework.  
-https://tailwindcss.com/  
-
-*tailwindui*  
-UI-components for tailwind (Commercial).  
-https://tailwindui.com/  
-
-*headlessui*  
-Animated UI components used along with Tailwind CSS.  
-https://headlessui.dev/  
-
-*vimesh-headless*  
-headlessui re-build for alpine.js  
-https://github.com/vimeshjs/vimesh-headless  
-
-*pines*  
-tailwind and alpine.js components  
-https://devdojo.com/pines  
-
-*animated tailwind*  
-A configuration to use Animate.css with Tailwind CSS.  
-https://github.com/ikcb/animated-tailwindcss
-
-*cssgradient*  
-Easy gradient control.  
-https://cssgradient.io/  
-
-*Specifity Calculator*  
-A visual way to understand CSS specificity.  
-https://specificity.keegan.st/  
-
-*super useful css resources*  
-a nice curated toplist on css resources  
-https://dev.to/lissy93/super-useful-css-resources-1ba3  
-
-*css snippets*  
-snippets collection by Ryan Trimble  
-https://ryantrimble.com/blog/my-favorite-css-snippets/  
-
-*tailwind elements*  
-md-bootstrap styled collection of tailwind components, sections & templates  
-https://tailwind-elements.com/  
-
-
 ### design
 
 *godly websites*  
@@ -471,130 +511,6 @@ https://neumorphism.io/#e0e0e0
 *glassmorphism generator*  
 generate css for elements with a glassmorphism effect  
 https://hype4.academy/tools/glassmorphism-generator  
-
-
-
-
----
-
-
-*fast*  
-how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
-https://web.dev/fast/  
-
-*jamstack*  
-architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
-https://jamstack.org/  
-
-
-
-*hypermedia-systems*  
-Web Applications with Htmx  
-Part 2 of the very nice book [hypermedia-systems](https://hypermedia.systems/)  
-by Carson Gross, Adam Stepinski, Deniz Aksimsek  
-https://hypermedia.systems/book/part/htmx/  
-
-*hyperscript*  
-another front end web development language
-https://hyperscript.org/docs/  
-
-*CSS-tricks*  
-the flexbox layout guide  
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
-
-*HTML semantics*  
-The HTML web semantics cheat sheet  
-https://learntheweb.courses/topics/html-semantics-cheat-sheet/  
-
-*Daisy UI*  
-Component library for tailwind  
-https://daisyui.com/  
-
-*Tailblocks*  
-blocks of MIT licensed tailwind snippets
-https://tailblocks.cc/  
-
-*Transform tools*  
-transforms from one thing to another (like ordinary css to tailwind, or markdown to html, xml2json, etc)  
-https://transform.tools/  
-
-*atomic web design*  
-methodology for creating design systems  
-https://bradfrost.com/blog/post/atomic-web-design/  
-
-*slippers*  
-Template component libraries for Django  
-https://mitchel.me/slippers/  
-
-*django-allauth-ui*  
-Nice looking (tailwind) templates for django-allauth  
-https://github.com/danihodovic/django-allauth-ui  
-
-
-
-
-
-Didn't I mention *hackernews* yet?  
-https://news.ycombinator.com/  
-
-*codewars*  
-Practice programming in your favourite language.  
-https://www.codewars.com/  
-
-
-
-*Worldtimebuddy*  
-convenient world clock, time zone converter and online meeting scheduler  
-https://www.worldtimebuddy.com/  
-
-
-*godbolt*  
-The compiler explorer, see what your code is actually doing  
-https://godbolt.org/  
-
-*swagger editor*  
-the editor can live render api docs directly from the openapi.yaml  
-https://editor.swagger.io/  
-
-
-*htmx*  
-High power tools for HTML.  
-https://htmx.org/  
-
-
-*miro*  
-Great tool used for virtual WhiteBoard-Templates:  
-Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
-Also mirroring the kanban-workflow from github.  
-https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
-
-*scoop*  
-Windows package managing. Yes, I'm forced to do Windows a lot.
-https://scoop.sh/  
-
-*FriendDA*  
-disclosure agreement between friends  
-https://friendda.org/  
-
-
-*Docusaurus*  
-Static site generator for Markdown files to ship beautiful documentation websites in no time.  
-https://docusaurus.io/  
-
-*Mkdocs*  
-If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
-https://www.mkdocs.org/  
-
-
-*qutebrowser*  
-Keyboard based browser, written in python  
-https://qutebrowser.org/  
-
-*doppler.com*  
-Secret and environment managing made easy  
-https://www.doppler.com/  
-
-
 
 
 ## Cloud
@@ -700,6 +616,14 @@ https://github.com/zdf-opensource/recommendations-pa-base
 *pyvis*  
 interactive network visualizations  
 https://pyvis.readthedocs.io/en/latest/  
+
+*Transform tools*  
+transforms from one thing to another (like ordinary css to tailwind, or markdown to html, xml2json, etc)  
+https://transform.tools/  
+
+*Worldtimebuddy*  
+convenient world clock, time zone converter and online meeting scheduler  
+https://www.worldtimebuddy.com/  
 
 
 ## Shell & Terminal
@@ -1025,6 +949,66 @@ https://github.com/satwikkansal/wtfpython
 *awesome-selfhosted*  
 
 https://github.com/awesome-selfhosted/awesome-selfhosted  
+
+
+
+
+
+*fast*  
+how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
+https://web.dev/fast/  
+
+*jamstack*  
+architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
+https://jamstack.org/  
+
+Didn't I mention *hackernews* yet?  
+https://news.ycombinator.com/  
+
+*codewars*  
+Practice programming in your favourite language.  
+https://www.codewars.com/  
+
+*godbolt*  
+The compiler explorer, see what your code is actually doing  
+https://godbolt.org/  
+
+*swagger editor*  
+the editor can live render api docs directly from the openapi.yaml  
+https://editor.swagger.io/  
+
+*miro*  
+Great tool used for virtual WhiteBoard-Templates:  
+Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
+Also mirroring the kanban-workflow from github.  
+https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
+
+*scoop*  
+Windows package managing. Yes, I'm forced to do Windows a lot.
+https://scoop.sh/  
+
+*FriendDA*  
+disclosure agreement between friends  
+https://friendda.org/  
+
+*Docusaurus*  
+Static site generator for Markdown files to ship beautiful documentation websites in no time.  
+https://docusaurus.io/  
+
+*Mkdocs*  
+If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
+https://www.mkdocs.org/  
+
+*qutebrowser*  
+Keyboard based browser, written in python  
+https://qutebrowser.org/  
+
+*doppler.com*  
+Secret and environment managing made easy  
+https://www.doppler.com/  
+
+
+
 
 
 ## Business
