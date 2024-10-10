@@ -34,7 +34,7 @@ Domain name registrar.
 https://www.gandi.net/en  
 
 
-## share
+## Share something
 
 *file.io*  
 Fast file sharing.  
@@ -57,18 +57,7 @@ actually a fork of zerobin, self-hosteable
 https://privatebin.info/  
 
 
-## General coding
-
-*codewars*  
-Practice programming in your favourite language.  
-https://www.codewars.com/  
-
-Didn't I mention *hackernews* yet?  
-https://news.ycombinator.com/  
-
-*stackoverflow*  
-Ask your questions here. Or read about solutions by your peers.  
-https://stackoverflow.com/  
+## Architecture
 
 *the twelve-factor-app*  
 For an advanced understanding of general web apps / software-as-a-service how-to. Come back here later if you can't get a gasp on it now.  
@@ -78,54 +67,17 @@ https://12factor.net/
 Versioning MAJOR.MINOR.PATCH, MAJOR for incompatible API changes, MINOR for new compatible features, PATCH for bug fixes.  
 https://semver.org/  
 
-*hacker laws*  
-Laws, Theories, Principles and Patterns that developers will find useful.  
-https://github.com/dwmkerr/hacker-laws  
-
-
-
-*miro*  
-Great tool used for virtual WhiteBoard-Templates:  
-Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
-Also mirroring the kanban-workflow from github.  
-https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
-
-*scoop*  
-Windows package managing. Yes, I'm forced to do Windows a lot.
-https://scoop.sh/  
-
-
-*FriendDA*  
-disclosure agreement between friends  
-https://friendda.org/  
-
-*Docusaurus*  
-Static site generator for Markdown files to ship beautiful documentation websites in no time.  
-https://docusaurus.io/  
-
-*Mkdocs*  
-If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
-https://www.mkdocs.org/  
-
-*AsyncAPI*  
-Event driven architecture service design tutorial  
-https://www.asyncapi.com/docs/tutorials/getting-started  
-
 *Application Holotypes*  
 characteristics of real-world applications, a guide to architecture decisions  
 https://jasonformat.com/application-holotypes/  
 
-*Worldtimebuddy*  
-convenient world clock, time zone converter and online meeting scheduler  
-https://www.worldtimebuddy.com/  
+*hacker laws*  
+Laws, Theories, Principles and Patterns that developers will find useful.  
+https://github.com/dwmkerr/hacker-laws  
 
-*qutebrowser*  
-Keyboard based browser, written in python  
-https://qutebrowser.org/  
-
-*godbolt*  
-The compiler explorer, see what your code is actually doing  
-https://godbolt.org/  
+*AsyncAPI*  
+Event driven architecture service design tutorial  
+https://www.asyncapi.com/docs/tutorials/getting-started  
 
 *What pwa can do today*  
 what is possible with Progressive Web Apps  
@@ -141,21 +93,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 what actually is http in the first place?  
 https://developer.mozilla.org/en-US/docs/Web/HTTP  
 
-*actix*  
-A FAST webframework written in rust.  
-https://actix.rs/  
 
-*htmx*  
-High power tools for HTML.  
-https://htmx.org/  
+## Databases
 
 *realm.io*  
 alternative to sqlite based on mongodb  
 https://realm.io/  
-
-*doppler.com*  
-Secret and environment managing made easy  
-https://www.doppler.com/  
 
 *supabase*  
 open source firebase alternative, using a postgres instance  
@@ -169,11 +112,8 @@ https://www.postgresql.org/
 open source redis fork  
 https://valkey.io/  
 
-*swagger editor*  
-the editor can live render api docs directly from the openapi.yaml  
-https://editor.swagger.io/  
 
-### Python
+## Python
 
 *python*  
 Parseltongue, my language of choice.  
@@ -181,15 +121,30 @@ https://www.python.org/
 
 *LPTHW*  
 Learn python3 the hard way (Commercial).  
+I actually started working thoroughly through this book.  
 https://learnpythonthehardway.org/python3/  
 
-*python news*  
-pythonic news  
-https://news.python.sc/  
+*uv*
+Manage all your different python versions with uv.  
+Python packaging and dependency management made easy and fast.  
+I finally managed to replace poetry/pyenv.  
+https://docs.astral.sh/uv/
+
+_ruff_  
+central python linting in rust  
+https://github.com/charliermarsh/ruff  
 
 *pypi contents*  
 The contents of PyPI, in numbers  
 https://py-code.org/stats  
+
+*f-string-help*  
+how did f-strings work again? Padding, transformations, formatting, etc..  
+https://fstring.help/  
+
+*pythex*  
+quickly test python regular expressions  
+https://pythex.org/  
 
 *design patterns in python*  
 Learn design patterns (see: gang of four) in your favourite language.  
@@ -203,36 +158,11 @@ https://python-patterns.guide/
 Learn on worse practices.  
 https://docs.quantifiedcode.com/python-anti-patterns/  
 
-*pyenv*  
-Manage all your different versions with pyenv.  
-https://github.com/pyenv/pyenv  
-Windows-users use pyenv-win.  
-https://github.com/pyenv-win/pyenv-win  
-
-*uv*
-I finally managed to replace poetry/pyenv.  
-Manage all your different versions with uv.  
-Python packaging and dependency management made easy and fast.  
-https://docs.astral.sh/uv/
-
 *the algorithms*  
 All algorithms implemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
 https://github.com/TheAlgorithms/Python  
 
-*pythex*  
-quickly test python regular expressions  
-https://pythex.org/  
-
-_ruff_  
-central python linting in rust  
-https://github.com/charliermarsh/ruff  
-
-*f-string-help*  
-how did f-strings work again? Padding, transformations, formatting, etc..  
-https://fstring.help/  
-
-
-#### Some of my favourite modules
+### Some of my favourite modules
 
 *httpx*  
 A next-generation HTTP client for python.  
@@ -388,6 +318,10 @@ https://rustup.rs/
 *Are we web yet*  
 What web technologies does rust support right now?  
 https://www.arewewebyet.org/  
+
+*actix*  
+A FAST webframework written in rust.  
+https://actix.rs/  
 
 *serde*  
 serialize and de-serialize data structures (json, pickle, etc) with rust  
