@@ -198,9 +198,10 @@ https://github.com/psf/black
 Beautiful formatting in the terminal.  
 https://github.com/willmcgugan/rich  
 
-*textual*  
-TUI framework to run applications in a terminal easily  
+*textual*/*textualize*    
+https://www.textualize.io/  
 https://github.com/textualize/textual/  
+TUI framework to run applications in a terminal easily  
 
 *devtools*  
 Debug print, prettyprint, breakpoints, timer.  
@@ -222,10 +223,6 @@ https://strawberry.rocks/
 Big data wrapper, works with pandas, postgres, raw sql.  
 https://ibis-project.org/docs/3.1.0/  
 
-*pandera*  
-dataframe schema validations  
-https://pandera.readthedocs.io/en/stable/  
-
 *pelican*  
 Static site generator, powered by python.  
 https://blog.getpelican.com/  
@@ -239,44 +236,23 @@ https://github.com/pydantic/pydantic-core
 convert some json data to pydantic models  
 https://jsontopydantic.com/  
 
-*deutschland*  
-A python package that gives you easy access to the most valuable datasets of Germany.  
-https://github.com/bundesAPI/deutschland  
-
 *flit*  
 packaging of Python modules  
 https://github.com/pypa/flit  
 
-*darts*  
-time series forecasting in python  
-https://unit8co.github.io/darts/  
-
-*polars*  
-rust and python API for fast dataframes  
-https://www.pola.rs/  
-
-*scalene*  
-python performance optimizer, AI powered  
-for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
-https://github.com/plasma-umass/scalene  
-
 *pytest*  
 write automated tests (yes, you should know this)  
 https://pytest.org/  
-
-*vcrpy*  
+used with *vcrpy*  
 record http requests to vcr files, that are reusued on testing, if nothing changed  
 https://vcrpy.readthedocs.io/en/latest/  
-
-*hypothesis*  
+and *hypothesis*  
 property based (random parametrizing) testcases that fuzz your pytests  
 https://github.com/HypothesisWorks/hypothesis  
-
-*mutatest*  
+as well as *mutatest*  
 python mutation testing  
 https://mutatest.readthedocs.io/en/latest/   
-
-*nox*  
+or *nox*  
 automated testing for multi python environments  
 https://nox.thea.codes/en/stable/  
 
@@ -292,13 +268,27 @@ https://github.com/carltongibson/django-template-partials
 env file parsing and environment variable handling  
 https://github.com/sloria/environs  
 
-*textualize*  
-gpraphical user interface in cli applications  
-https://www.textualize.io/  
-
 *taipy*  
 fast data to gui framework  
 https://www.taipy.io/  
+
+*darts*  
+time series forecasting in python  
+https://unit8co.github.io/darts/  
+
+*pandera*  
+dataframe schema validations  
+https://pandera.readthedocs.io/en/stable/  
+
+*polars*  
+rust and python API for fast dataframes  
+https://www.pola.rs/  
+
+*scalene*  
+python performance optimizer, AI powered  
+for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
+https://github.com/plasma-umass/scalene  
+
 
 *monkey type*  
 auto generate static type annotations  
@@ -346,6 +336,8 @@ https://www.getzola.org/
 
 ## Frontend
 
+### javascript / typescript
+
 *javascript*  
 The modern javascript tutorial.  
 https://javascript.info/  
@@ -377,6 +369,49 @@ https://v2.vuepress.vuejs.org/
 *vueuse*  
 Collection of essential Vue Composition Utilities.  
 https://vueuse.org/  
+
+*pnpm*  
+Fast and disk efficient package manager for js and ts packages  
+https://pnpm.io/  
+
+*capacitor*  
+Native mobile apps with vue and native mobile api support  
+https://capacitorjs.com/  
+
+*vercel*  
+frontend deployment as a service  
+https://vercel.com/  
+
+*trois*  
+ThreeJS 3D effects for vuejs  
+https://troisjs.github.io/  
+
+*vueuse*  
+a lot of essential vue composition utilities  
+https://vueuse.org/  
+
+*vue-macros*  
+macros and syntax sugar to vue  
+https://vue-macros.sxzz.moe/  
+
+*gridsome*  
+jamstack for vue.js  
+https://gridsome.org/  
+
+*everyone has js, right*
+Do you assume, javascript is always available?
+https://www.kryogenix.org/code/browser/everyonehasjs.html  
+
+*qwik*  
+typescript framework for lazy loading small chunks  
+https://qwik.builder.io/  
+
+*zod*  
+typescript schema validation  
+https://zod.dev/  
+
+
+### css
 
 *tailwind*  
 The rapid css framework.  
@@ -410,22 +445,6 @@ https://cssgradient.io/
 A visual way to understand CSS specificity.  
 https://specificity.keegan.st/  
 
-*godly websites*  
-Collection of design inspirations on the internet.  
-https://godly.website/  
-
-*pnpm*  
-Fast and disk efficient package manager for js and ts packages  
-https://pnpm.io/  
-
-*capacitor*  
-Native mobile apps with vue and native mobile api support  
-https://capacitorjs.com/  
-
-*vercel*  
-frontend deployment as a service  
-https://vercel.com/  
-
 *super useful css resources*  
 a nice curated toplist on css resources  
 https://dev.to/lissy93/super-useful-css-resources-1ba3  
@@ -433,6 +452,17 @@ https://dev.to/lissy93/super-useful-css-resources-1ba3
 *css snippets*  
 snippets collection by Ryan Trimble  
 https://ryantrimble.com/blog/my-favorite-css-snippets/  
+
+*tailwind elements*  
+md-bootstrap styled collection of tailwind components, sections & templates  
+https://tailwind-elements.com/  
+
+
+### design
+
+*godly websites*  
+Collection of design inspirations on the internet.  
+https://godly.website/  
 
 *neumorphism generator*  
 generate css for buttons with the neumorphism effect  
@@ -442,13 +472,11 @@ https://neumorphism.io/#e0e0e0
 generate css for elements with a glassmorphism effect  
 https://hype4.academy/tools/glassmorphism-generator  
 
-*tailwind elements*  
-md-bootstrap styled collection of tailwind components, sections & templates  
-https://tailwind-elements.com/  
 
-*trois*  
-ThreeJS 3D effects for vuejs  
-https://troisjs.github.io/  
+
+
+---
+
 
 *fast*  
 how to write faster web applications link collection (might involve [tree-shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking))  
@@ -458,29 +486,7 @@ https://web.dev/fast/
 architectural approach for server side rendering (SSR) and static-site-generation (SSG) to decouple frontend from backend logic and improve load times as well as SEO  
 https://jamstack.org/  
 
-*vueuse*  
-a lot of essential vue composition utilities  
-https://vueuse.org/  
 
-*vue-macros*  
-macros and syntax sugar to vue  
-https://vue-macros.sxzz.moe/  
-
-*gridsome*  
-jamstack for vue.js  
-https://gridsome.org/  
-
-*everyone has js, right*
-Do you assume, javascript is always available?
-https://www.kryogenix.org/code/browser/everyonehasjs.html  
-
-*qwik*  
-typescript framework for lazy loading small chunks  
-https://qwik.builder.io/  
-
-*zod*  
-typescript schema validation  
-https://zod.dev/  
 
 *hypermedia-systems*  
 Web Applications with Htmx  
@@ -523,6 +529,72 @@ https://mitchel.me/slippers/
 *django-allauth-ui*  
 Nice looking (tailwind) templates for django-allauth  
 https://github.com/danihodovic/django-allauth-ui  
+
+
+
+
+
+Didn't I mention *hackernews* yet?  
+https://news.ycombinator.com/  
+
+*codewars*  
+Practice programming in your favourite language.  
+https://www.codewars.com/  
+
+
+
+*Worldtimebuddy*  
+convenient world clock, time zone converter and online meeting scheduler  
+https://www.worldtimebuddy.com/  
+
+
+*godbolt*  
+The compiler explorer, see what your code is actually doing  
+https://godbolt.org/  
+
+*swagger editor*  
+the editor can live render api docs directly from the openapi.yaml  
+https://editor.swagger.io/  
+
+
+*htmx*  
+High power tools for HTML.  
+https://htmx.org/  
+
+
+*miro*  
+Great tool used for virtual WhiteBoard-Templates:  
+Flowcharts, MindMaps, Retros, User-Stories, Multimedia presentations.  
+Also mirroring the kanban-workflow from github.  
+https://miro.com/ project management alternative: [klaxoon](https://klaxoon.com/)  
+
+*scoop*  
+Windows package managing. Yes, I'm forced to do Windows a lot.
+https://scoop.sh/  
+
+*FriendDA*  
+disclosure agreement between friends  
+https://friendda.org/  
+
+
+*Docusaurus*  
+Static site generator for Markdown files to ship beautiful documentation websites in no time.  
+https://docusaurus.io/  
+
+*Mkdocs*  
+If you include the [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) it's another nice static site generator for markdown documentation.  
+https://www.mkdocs.org/  
+
+
+*qutebrowser*  
+Keyboard based browser, written in python  
+https://qutebrowser.org/  
+
+*doppler.com*  
+Secret and environment managing made easy  
+https://www.doppler.com/  
+
+
 
 
 ## Cloud
