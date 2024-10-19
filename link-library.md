@@ -189,8 +189,9 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 https://fastapi.tiangolo.com/  
 
 *litestar*  
-another API framework, has some batteries  
+another API framework, has some batteries included  
 https://litestar.dev/  
+might be enhanced with a [tailwind-cli plugin](https://github.com/Tobi-De/litestar-tailwind-cli)  
 
 *pandas*  
 Data analysis and manipulation.  
