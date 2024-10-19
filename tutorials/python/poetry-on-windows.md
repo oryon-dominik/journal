@@ -40,12 +40,3 @@ From old `requirements.txt`
     foreach($requirement in (Get-Content "$pwd\requirements.txt")) {Invoke-Expression "poetry add $requirement"}
 
 
-## Issues
-
-If some pacakges do not install:
-
-- Try to wipe the cache-directory configured with `poetry config cache-dir`.  
-- Check if all build tools required for the package (C, C++, Haskell, rust) are installed and on `PATH`.
-- Another useful workaround for unavailable wheels is to pre-install a matching binary package downloaded
- from [gohlkes pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/) via `pip` to your activated venv and
- then add it via `poetry`.
