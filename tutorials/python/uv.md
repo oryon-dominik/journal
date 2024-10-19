@@ -45,7 +45,25 @@ uv remove <name>                    # removes a package
 ```
 
 ```shell
-uvx install
+uv tool list                        # list tools available for uv
+uv tool install <name>              # install the tool userwide
+uv tool upgrade                     # upgrade available tools
+# uvx === uv tool run
+uvx <name>                          # run the tool
+
+# available packages
+#   black
+#   flake8
+#   ruff
+#   isort
+#   pwntools
+#   thefuck
+    
+    # posix-only
+    asciinema
+    
+    ansible
+
 
 ```
 
