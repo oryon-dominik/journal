@@ -65,9 +65,9 @@ uvx <name>                          # run the tool
 
 ### Issues
 
-If some pacakges do not install:
+If some packages do not install:
 
 - Try to wipe the cache-directory configured with `uv cache clean`.  
-- Check if all build tools required for the package (C, C++, Haskell, rust) are installed and on `PATH`.
-- Another useful workaround for unavailable wheels is to pre-install a matching binary package downloaded from [gohlkes pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/) via `pip` to your activated venv and then add it via `uv`.
+- Check if all build tools required for the package (C, C++, Haskell, Rust) are installed and on `PATH`.
+- Another useful workaround for unavailable wheels is to pre-install a matching binary package downloaded from [gohlkes pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/) via `pip install <> --break-system-packages` to your activated venv and then add it via `uv`.
 
