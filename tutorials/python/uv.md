@@ -42,6 +42,12 @@ uv lock --upgrade-package <name>    # upgrade a single package
 uv sync --all-extras                # installs all extra groups defined
 uv add <name>                       # adds a package to pyproject.toml
 uv remove <name>                    # removes a package
+
+# lock dependencies declared in a `pyproject.toml`
+uv pip compile pyproject.toml -o requirements.txt
+
+# Migrate an existing project
+uv pip sync requirements.txt
 ```
 
 ```shell
