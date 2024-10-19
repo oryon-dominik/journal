@@ -58,12 +58,10 @@ uvx <name>                          # run the tool
 #   isort
 #   pwntools
 #   thefuck
-    
-    # posix-only
-    asciinema
-    
-    ansible
-
+#   ...
+#   # posix-only
+#   asciinema
+#   ansible
 
 ```
 
