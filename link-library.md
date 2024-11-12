@@ -306,6 +306,10 @@ https://github.com/plasma-umass/scalene
 auto generate static type annotations  
 https://github.com/Instagram/MonkeyType  
 
+*rembg*  
+remove image background python CLI  
+https://github.com/danielgatis/rembg  
+
 
 ### Rust
 
