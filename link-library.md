@@ -37,6 +37,10 @@ https://www.gandi.net/en
 Windows package managing. Yes, I'm forced to do Windows a lot.
 https://scoop.sh/  
 
+*markdown*  
+The markdown specification (RIP Aaron)  
+http://www.aaronsw.com/weblog/001189  
+
 
 ## Share something
 
