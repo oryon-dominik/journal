@@ -1,6 +1,6 @@
-# Windows 10 wsl-setup
+# Windows 11 wsl-setup
 
-If you followed the windows tutorials [1-post-installation-windows10](1-post-installation-windows10.md),
+If you followed the windows tutorials [1-post-installation-windows11](1-post-installation-windows11.md),
 [2-how-to-windows-dotfiles](2-how-to-windows-dotfiles.md) and
 [3-customize-windows-dotfiles](3-customize-windows-dotfiles.md) continue with WSL-setup.
 

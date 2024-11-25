@@ -1,4 +1,4 @@
-# Windows 10 post-installation
+# Windows 11 post-installation
 
 Install all your latest **system-updates**.  
 

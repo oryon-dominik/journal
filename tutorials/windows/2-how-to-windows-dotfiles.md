@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-If you followed the first tutorial [1-post-installation-windows10](1-post-installation-windows10.md) you're
+If you followed the first tutorial [1-post-installation-windows11](1-post-installation-windows11.md) you're
 already set to start with the dotfiles environment. Make sure you have installed every prerequisite (`scoop`, `git`, `powershell > 7` & the `visual studio C++ buildtools`).
 
 Open a powershell.

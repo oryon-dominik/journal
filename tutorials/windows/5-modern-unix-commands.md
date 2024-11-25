@@ -1,4 +1,4 @@
-# Modern unix commands on Windows 10
+# Modern unix commands on Windows 11
 
 Will install `scoop`, `git`, `rustup`, all cargo modules found in this 
 [cargo-tools list](https://github.com/oryon-dominik/dotfiles/blob/trunk/install/crates/cargo-tools.json)
