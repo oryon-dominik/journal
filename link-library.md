@@ -386,6 +386,10 @@ https://mitchel.me/slippers/
 Nice looking (tailwind) templates for django-allauth  
 https://github.com/danihodovic/django-allauth-ui  
 
+*daisy ui*  
+Add component class names to Tailwind CSS  
+https://daisyui.com/  
+
 ### CSS
 
 *tailwind*  
