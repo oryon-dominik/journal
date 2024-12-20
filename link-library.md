@@ -537,6 +537,10 @@ https://neumorphism.io/#e0e0e0
 generate css for elements with a glassmorphism effect  
 https://hype4.academy/tools/glassmorphism-generator  
 
+*upscayle*  
+ai upscaler  
+https://github.com/upscayl/upscayl  
+
 
 ## Cloud
 
