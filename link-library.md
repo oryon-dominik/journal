@@ -158,6 +158,10 @@ https://py-code.org/stats
 how did f-strings work again? Padding, transformations, formatting, etc..  
 https://fstring.help/  
 
+*strftime*  
+strftime format codes  
+https://strftime.org/  
+
 *pythex*  
 quickly test python regular expressions  
 https://pythex.org/  
