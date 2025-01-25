@@ -182,6 +182,10 @@ https://docs.quantifiedcode.com/python-anti-patterns/
 All algorithms implemented in python - even if this implementations might not be the best solutions, this collection is very thorough.  
 https://github.com/TheAlgorithms/Python  
 
+*hatchet*  
+an alternative task queue manager to celery  
+https://hatchet.run/  
+
 #### Some of my favourite modules
 
 *httpx*  
