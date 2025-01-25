@@ -1112,6 +1112,10 @@ https://www.monolisa.dev/
 easy LLM flows  
 https://flowiseai.com/  
 
+*together.ai*  
+Train, fine-tune-and run inference on AI models  
+https://www.together.ai/  
+
 *mattermost*  
 collaboration hub, like teams  
 https://mattermost.com/  
