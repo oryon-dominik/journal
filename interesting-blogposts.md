@@ -359,6 +359,10 @@ Ulf Morys (syrom)
 2024-01-01  
 https://medium.com/@syrom_85473/a-flexible-q-a-chat-app-for-your-selection-of-documents-with-langchain-streamlit-and-chatgpt-8205c403a818  
 
+Agents  
+Chip Huyen  
+2025-01-07  
+https://huyenchip.com/2025/01/07/agents.html  
 
 ## MQTT & Raspberry
 
