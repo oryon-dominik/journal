@@ -1148,6 +1148,9 @@ https://www.soulmachines.com/
 scale your sales, german agency with some ideas  
 https://scaling-champions.com/team/  
 
+*tailscale*  
+recommended vpn  
+https://tailscale.com/  
 
 ## Home
 
