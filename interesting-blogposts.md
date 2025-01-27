@@ -65,6 +65,11 @@ Luke Plant
 https://spookylukey.github.io/django-views-the-right-way/  
 (actually I'm not agreeing on this)  
 
+django-templated-email-md notes aka if you want to format emails with Markdown, use it  
+Jeff Triplet  
+2025-01-11  
+https://micro.webology.dev/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/  
+
 
 ## Numpy & Rust
 
