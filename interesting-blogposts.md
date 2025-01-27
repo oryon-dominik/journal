@@ -206,6 +206,11 @@ https://knock.app/blog/postgres-index-findings
 
 ## Security
 
+Essential Python Web security  
+Michael Foord  
+2024-12-12  
+https://opensource.net/essential-python-web-security/  
+
 NAT Slipstreaming, take control over javascript  
 Samy Kamkar  
 2020-10-31  
