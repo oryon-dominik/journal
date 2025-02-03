@@ -16,6 +16,14 @@ https://code.visualstudio.com/
 Version control.  
 https://github.com/about  
 
+*oh shit, git*  
+How to get out of bad situations in git..  
+https://ohshitgit.com/  
+
+*oh my git*  
+The best learning game for git, I know of  
+https://ohmygit.org/  
+
 *github-copilot*  
 Faster snippets. Faster coding. Great experience for every-day-tasks.  
 Extendable with [Copilot labs](https://githubnext.com/projects/copilot-labs/)  
@@ -548,6 +556,10 @@ https://hype4.academy/tools/glassmorphism-generator
 *upscayle*  
 ai upscaler  
 https://github.com/upscayl/upscayl  
+
+*sketch-a-day*  
+Scripts for one python visualization a day
+https://abav.lugaralgum.com/sketch-a-day/  
 
 
 ## Cloud
