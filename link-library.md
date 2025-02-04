@@ -561,6 +561,9 @@ https://github.com/upscayl/upscayl
 Scripts for one python visualization a day
 https://abav.lugaralgum.com/sketch-a-day/  
 
+*cameronsworld*  
+a love letter to the internet of old  
+https://www.cameronsworld.net/  
 
 ## Cloud
 
