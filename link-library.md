@@ -464,6 +464,9 @@ https://ryantrimble.com/blog/my-favorite-css-snippets/
 md-bootstrap styled collection of tailwind components, sections & templates  
 https://tailwind-elements.com/  
 
+*css tipps*  
+okay, usally I don't link YT here.. but this video (glassmorphic etc.) kinda fits in  
+https://www.youtube.com/watch?v=PL3Odw-k8W4  
 
 ### javascript / typescript
 
