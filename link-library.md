@@ -1123,6 +1123,10 @@ https://www.visualcapitalist.com/
 AI video generator  
 https://www.heygen.com/  
 
+*forwardmail*  
+Alternative foss email service to use instead of sendmail mailgun and all the other..  
+https://forwardemail.net/de  
+
 
 ## Commercial
 
