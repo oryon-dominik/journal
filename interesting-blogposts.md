@@ -509,3 +509,8 @@ Geeks, MOPs, and sociopaths in subculture evolution
 David Chapman  
 2015-05-30  
 https://meaningness.com/geeks-mops-sociopaths  
+
+How to fall asleep in 5 Minutes (thanks shezi!)
+1. be tired
+2. relax your mind (think of a quiet image, a star full sky,  ...)
+3. relax your body (start with the muscles on your face)
