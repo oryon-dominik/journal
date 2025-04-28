@@ -203,6 +203,10 @@ Billy Ceskavich
 2022-10-06  
 https://knock.app/blog/postgres-index-findings  
 
+Zero-downtime postgres migrations - the hard parts  
+Chris Sinjakali  
+2024-06-30  
+https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/  
 
 ## Security
 
