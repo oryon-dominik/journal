@@ -1182,6 +1182,9 @@ https://scaling-champions.com/team/
 recommended vpn  
 https://tailscale.com/  
 
+*worklenz*  
+open source task management tool  
+https://worklenz.com/  
 
 ## Home
 
