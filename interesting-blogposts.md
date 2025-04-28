@@ -507,5 +507,5 @@ https://ansuz.sooke.bc.ca/entry/23
 
 Geeks, MOPs, and sociopaths in subculture evolution  
 David Chapman  
-2000ish
+2015-05-30  
 https://meaningness.com/geeks-mops-sociopaths  
