@@ -930,6 +930,14 @@ https://www.promptingguide.ai/
 database of AI Upscaling models  
 https://openmodeldb.info/  
 
+*n8n*  
+Flexible AI workflow automation for technical teams  
+https://n8n.io/  
+
+*replit*  
+app creator for apps and websites  
+https://replit.com/  
+
 
 ## Stars from GitHub
 
@@ -1185,6 +1193,7 @@ https://tailscale.com/
 *worklenz*  
 open source task management tool  
 https://worklenz.com/  
+
 
 ## Home
 
