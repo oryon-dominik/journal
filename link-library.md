@@ -723,6 +723,14 @@ https://github.com/nvbn/thefuck
 Chmod Command Calculator  
 https://chmodcommand.com/  
 
+*just*  
+just love (a command runner with `.justfile` specfiles)  
+https://github.com/casey/just  
+
+*overmind*  
+Multi-applicaitons in one tmux, via using Procfiles - on posix only  
+https://github.com/DarthSim/overmind  
+
 
 ## Security
 
