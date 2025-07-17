@@ -293,6 +293,11 @@ Reasons to avoid Javascript CDNs
 2021-12-10  
 https://blog.wesleyac.com/posts/why-not-javascript-cdn  
 
+10 Usability Heuristics for User Interface Design  
+Jakob Nielsen  
+1994-04-24
+https://www.nngroup.com/articles/ten-usability-heuristics/  
+
 
 ## Infrastructure
 
