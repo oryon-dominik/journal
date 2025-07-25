@@ -946,6 +946,10 @@ https://n8n.io/
 app creator for apps and websites  
 https://replit.com/  
 
+*flux*  
+image generation  
+https://fal.ai/flux  
+
 
 ## Stars from GitHub
 
