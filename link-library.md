@@ -569,8 +569,8 @@ a love letter to the internet of old
 https://www.cameronsworld.net/  
 
 *stitch*  
-
-https://stitch.withgoogle.com/
+prompt to design  
+https://stitch.withgoogle.com/  
 
 ## Cloud
 
