@@ -958,6 +958,10 @@ https://fal.ai/flux
 vram calculator  
 https://apxml.com/tools/vram-calculator  
 
+*stitch*  
+Prompt to design-scrrenshots and figma  
+https://stitch.withgoogle.com/   
+
 
 ## Stars from GitHub
 
@@ -1214,6 +1218,13 @@ https://tailscale.com/
 open source task management tool  
 https://worklenz.com/  
 
+*linear*  
+project management tool that has a mcp  
+https://linear.app/pricing  
+
+*dojo*  
+one tool to grow your brand  
+https://www.dojoai.com/  
 
 ## Home
 
