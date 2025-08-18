@@ -954,6 +954,10 @@ https://replit.com/
 image generation  
 https://fal.ai/flux  
 
+*apxml*  
+vram calculator  
+https://apxml.com/tools/vram-calculator  
+
 
 ## Stars from GitHub
 
