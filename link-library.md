@@ -330,6 +330,10 @@ https://github.com/Instagram/MonkeyType
 remove image background python CLI  
 https://github.com/danielgatis/rembg  
 
+*folium*  
+create maps with markers in python  
+https://github.com/python-visualization/folium  
+
 
 ### Rust
 
