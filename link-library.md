@@ -962,6 +962,9 @@ https://apxml.com/tools/vram-calculator
 Prompt to design-scrrenshots and figma  
 https://stitch.withgoogle.com/   
 
+*webcrumbs*  
+frontend ai  
+https://www.webcrumbs.ai/  
 
 ## Stars from GitHub
 
