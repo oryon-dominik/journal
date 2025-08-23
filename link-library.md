@@ -963,7 +963,7 @@ Prompt to design-scrrenshots and figma
 https://stitch.withgoogle.com/   
 
 *webcrumbs*  
-frontend ai  
+frontend ai, supports tailwind and figma export  
 https://www.webcrumbs.ai/  
 
 ## Stars from GitHub
