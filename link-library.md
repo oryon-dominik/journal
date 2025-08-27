@@ -739,6 +739,10 @@ https://github.com/casey/just
 Multi-applicaitons in one tmux, via using Procfiles - on posix only  
 https://github.com/DarthSim/overmind  
 
+*ccusage*  
+reveal token usage of claude code per model  
+https://github.com/ryoppippi/ccusage  
+
 
 ## Security
 
