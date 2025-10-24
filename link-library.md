@@ -49,6 +49,9 @@ https://scoop.sh/
 The markdown specification (RIP Aaron)  
 http://www.aaronsw.com/weblog/001189  
 
+*k*
+https://kagi.com/  
+
 
 ## Share something
 
