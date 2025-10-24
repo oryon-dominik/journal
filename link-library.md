@@ -49,7 +49,8 @@ https://scoop.sh/
 The markdown specification (RIP Aaron)  
 http://www.aaronsw.com/weblog/001189  
 
-*k*
+*kagi*  
+open search and all llm models, privacy first  
 https://kagi.com/  
 
 
