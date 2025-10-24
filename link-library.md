@@ -974,6 +974,15 @@ https://stitch.withgoogle.com/
 frontend ai, supports tailwind and figma export  
 https://www.webcrumbs.ai/  
 
+*letta*  
+stateful agents with advanced memory  
+https://github.com/letta-ai/letta  
+
+*agno*  
+mutli-agent framework  
+https://github.com/agno-agi/agno  
+
+
 ## Stars from GitHub
 
 *workadventure*  
