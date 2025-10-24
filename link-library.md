@@ -269,6 +269,10 @@ core validation logic for pydantic written in rust
 actually this should be included in pydantic 2.0 already..  
 https://github.com/pydantic/pydantic-core  
 
+*pydantic-ai*  
+pydantic genai agent framework  
+https://ai.pydantic.dev/  
+
 *pydantic to json*  
 convert some json data to pydantic models  
 https://jsontopydantic.com/  
