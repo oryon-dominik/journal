@@ -1254,6 +1254,10 @@ https://linear.app/pricing
 one tool to grow your brand  
 https://www.dojoai.com/  
 
+*dashkit*  
+a nice bootstrap theme, used by JT for his nice professional looks on customer facing projects  
+https://dashkit.goodthemes.co/  
+
 ## Home
 
 *jellyfin*  
