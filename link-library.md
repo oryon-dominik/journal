@@ -990,6 +990,9 @@ https://github.com/letta-ai/letta
 mutli-agent framework  
 https://github.com/agno-agi/agno  
 
+*claude code documentation map*  
+llms find this intriguing ;-P  
+https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md  
 
 ## Stars from GitHub
 
