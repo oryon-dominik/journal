@@ -418,6 +418,10 @@ https://github.com/danihodovic/django-allauth-ui
 Add component class names to Tailwind CSS  
 https://daisyui.com/  
 
+*Shadcdn*  
+Component regsitry for _react_  
+https://ui.shadcn.com/  
+
 ### CSS
 
 *tailwind*  
