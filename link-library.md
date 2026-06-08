@@ -1013,6 +1013,14 @@ https://github.com/kenn-io/agentsview
 Copy gmail to a local vault, make it searchable  
 https://github.com/kenn-io/msgvault  
 
+*vapi*  
+Voice AI agents  
+https://vapi.ai/  
+
+*runpod*  
+GPU cloud computing  
+https://www.runpod.io/pricing  
+
 
 ## Stars from GitHub
 
