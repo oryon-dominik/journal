@@ -998,6 +998,19 @@ https://github.com/agno-agi/agno
 llms find this intriguing ;-P  
 https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md  
 
+*kata*  
+Local first issue tracking for LLMs  
+https://github.com/kenn-io/kata  
+
+*agentsview*  
+local first session intelligence and analytics for coding agents  
+https://github.com/kenn-io/agentsview  
+
+*msgvault*  
+Copy gmail to a local vault, make it searchable  
+https://github.com/kenn-io/msgvault  
+
+
 ## Stars from GitHub
 
 *workadventure*  
