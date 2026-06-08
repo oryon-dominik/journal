@@ -918,6 +918,9 @@ https://spacy.io/
 
 ## Gen AI Tools
 
+Is AI profitable yet  
+https://isaiprofitable.com/  
+
 *gen ai guidebook*  
 This is a comprehensive resource for folks to get started in GenAI  
 https://ravinkumar.com/GenAiGuidebook/book_intro.html  
