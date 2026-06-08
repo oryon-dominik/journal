@@ -1133,6 +1133,9 @@ https://qutebrowser.org/
 kotlin vs c#  
 https://ttu.github.io/kotlin-is-like-csharp/  
 
+*Beej's Guide to C Programming*  
+c tutorial by Brian Jorgensen” Hall  
+https://beej.us/guide/bgc/html/split-wide/  
 
 ## Business
 
