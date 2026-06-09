@@ -915,6 +915,10 @@ https://github.com/stanfordnlp/dspy
 Industrial-Strength Natural Language Processing
 https://spacy.io/  
 
+*parlant*  
+interaction control harness  
+https://github.com/emcie-co/parlant  
+
 
 ## Gen AI Tools
 
