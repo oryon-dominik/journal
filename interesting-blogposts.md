@@ -161,6 +161,11 @@ Laurent Luce
 2020-05-30  
 https://www.laurentluce.com/posts/python-string-objects-implementation/  
 
+Let's hand write DNS messages  
+James Routley  
+2017-12-28  
+https://routley.io/posts/hand-writing-dns-messages  
+
 *Should You Use Upper Bound Version Constraints?*  
 Henry Schreiner  
 https://iscinumpy.dev/post/bound-version-constraints/  
