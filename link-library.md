@@ -220,6 +220,7 @@ might be enhanced with a [tailwind-cli plugin](https://github.com/Tobi-De/litest
 *pandas*  
 Data analysis and manipulation.  
 https://pandas.pydata.org/  
+Learn with: [Python Pandas For Your Grandpa](https://youtube.com/playlist?list=PL9oKUrtC4VP7ry0um1QOUUfJBXKnkf-dA)
 
 *jupyter*  
 Another developer tool, I use everyday.  

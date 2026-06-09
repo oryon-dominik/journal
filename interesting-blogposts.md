@@ -156,6 +156,11 @@ Simon Willison
 2022-09-18  
 https://til.simonwillison.net/awslambda/asgi-mangum  
 
+Python string objects implementation  
+Laurent Luce  
+2020-05-30  
+https://www.laurentluce.com/posts/python-string-objects-implementation/  
+
 *Should You Use Upper Bound Version Constraints?*  
 Henry Schreiner  
 https://iscinumpy.dev/post/bound-version-constraints/  
