@@ -1103,6 +1103,10 @@ https://github.com/satwikkansal/wtfpython
 *awesome-selfhosted*  
 https://github.com/awesome-selfhosted/awesome-selfhosted  
 
+*omarchy*  
+modern opinionated linux  
+https://omarchy.org/  
+
 
 ## Other
 
