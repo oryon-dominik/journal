@@ -1026,6 +1026,9 @@ https://vapi.ai/
 GPU cloud computing  
 https://www.runpod.io/pricing  
 
+*repomix*  
+pack repository into a single file  
+https://github.com/yamadashy/repomix  
 
 ## Stars from GitHub
 
