@@ -1149,6 +1149,18 @@ https://godbolt.org/
 the editor can live render api docs directly from the openapi.yaml  
 https://editor.swagger.io/  
 
+*WHATWG*  
+Home of the living HTML, DOM and Fetch standards.  
+https://wiki.whatwg.org/  
+
+*Ecma International*  
+Standards body behind ECMAScript.  
+https://ecma-international.org/  
+
+*W3C*  
+Web standards — CSS, accessibility, and the specs the browsers answer to.  
+https://www.w3.org/  
+
 *FriendDA*  
 disclosure agreement between friends  
 https://friendda.org/  
