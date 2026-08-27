@@ -744,6 +744,10 @@ https://github.com/nvbn/thefuck
 Chmod Command Calculator  
 https://chmodcommand.com/  
 
+*ascii table*  
+Character codes as html, octal, hex and decimal.  
+http://www.asciitable.com/  
+
 *just*  
 just love (a command runner with `.justfile` specfiles)  
 https://github.com/casey/just  
