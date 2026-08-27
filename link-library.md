@@ -868,6 +868,26 @@ https://streamlit.io/
 fast demo for your machine learning models  
 https://gradio.app/  
 
+*FlowingData*  
+Nathan Yau on data visualisation — charts, methods, and critique. Publishes daily.  
+https://flowingdata.com/  
+
+*Pete Warden's blog*  
+On-device and tiny machine learning, from the practical end. Every week or two.  
+https://petewarden.com/  
+
+*Machine Learning (Theory)*  
+John Langford (Microsoft Research, creator of Vowpal Wabbit). Read it as an archive:  
+how machine-learning research actually works — reductions between problem types,  
+online learning, contextual bandits. Roughly one post a year now.  
+https://hunch.net/  
+
+*Unofficial Google Data Science Blog*  
+Statistics at industrial scale, written by Google data scientists. The lasting part  
+is on experimentation: A/B testing pitfalls and interference between parallel  
+experiments. Dormant since March 2025.  
+https://www.unofficialgoogledatascience.com/  
+
 *mage space*  
 stable diffusion 1.5 online generator
 https://www.mage.space/  
