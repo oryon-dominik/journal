@@ -17,7 +17,7 @@ _also includes some other interesting stuff, on the broader topic of computer-sc
 
 How to get data into Django  
 Johannes Spielmann  
-2020-30-10  
+2020-10-30  
 https://shezi.de/posts/2020-10-30-data-into-django.html  
 
 Migrating data between databases with django  
@@ -470,7 +470,7 @@ https://christine.website/blog/how-http-requests-work-2020-05-19
 
 How web browsers work  
 Arika O  
-2022-22-04  
+2022-04-22  
 https://dev.to/arikaturika/series/17842  
 
 Shared Libraries: Understanding Dynamic Loading [in linux systems..]  
