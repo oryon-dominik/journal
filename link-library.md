@@ -407,6 +407,18 @@ https://hypermedia.systems/book/part/htmx/
 another front end web development language
 https://hyperscript.org/docs/  
 
+*Practical Typography*  
+Matthew Butterick's free book on typography — the one reference that makes text look right.  
+https://practicaltypography.com/  
+
+*Adobe Color*  
+Colour wheel and scheme builder.  
+https://color.adobe.com/create/color-wheel/  
+
+*You Might Not Need jQuery*  
+The vanilla JavaScript equivalent for every jQuery call.  
+https://youmightnotneedjquery.com/  
+
 *slippers*  
 Template component libraries for Django  
 https://mitchel.me/slippers/  
