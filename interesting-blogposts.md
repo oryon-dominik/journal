@@ -18,7 +18,7 @@ _also includes some other interesting stuff, on the broader topic of computer-sc
 How to get data into Django  
 Johannes Spielmann  
 2020-30-10  
-https://shezi.de/2020/10/30/data-into-django.html  
+https://shezi.de/posts/2020-10-30-data-into-django.html  
 
 Migrating data between databases with django  
 Rebecca Sutton Koeser  
