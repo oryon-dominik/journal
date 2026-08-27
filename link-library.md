@@ -423,6 +423,10 @@ https://youmightnotneedjquery.com/
 Markdown editor widget — the maintained fork of the stalled SimpleMDE.  
 https://github.com/Ionaru/easy-markdown-editor  
 
+*XPath cheatsheet*  
+Selector syntax at a glance — useful for Playwright locators and scraping.  
+https://devhints.io/xpath  
+
 *slippers*  
 Template component libraries for Django  
 https://mitchel.me/slippers/  
