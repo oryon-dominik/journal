@@ -419,6 +419,10 @@ https://color.adobe.com/create/color-wheel/
 The vanilla JavaScript equivalent for every jQuery call.  
 https://youmightnotneedjquery.com/  
 
+*EasyMDE*  
+Markdown editor widget — the maintained fork of the stalled SimpleMDE.  
+https://github.com/Ionaru/easy-markdown-editor  
+
 *slippers*  
 Template component libraries for Django  
 https://mitchel.me/slippers/  
