@@ -70,6 +70,16 @@ Jeff Triplet
 2025-01-11  
 https://micro.webology.dev/2025/01/11/djangotemplatedemailmd-notes-aka-if-you/  
 
+Optimizing Django ORM Queries  
+Rocio Aramberri  
+2020-05-03  
+http://schegel.net/posts/optimizing-django-orm-queries/  
+
+Using FastAPI with Django  
+Stavros  
+2020-05-11  
+https://www.stavros.io/posts/fastapi-with-django/  
+
 
 ## Numpy & Rust
 
@@ -203,6 +213,21 @@ The Definitive Guide to Python import Statements
 Chris Yeh  
 2017-08-08  
 https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html  
+
+Eval really is dangerous  
+Ned Batchelder  
+2012-06  
+https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html  
+
+How to cheat at unit tests with pytest and Black  
+Simon Willison  
+2020-02-11  
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/  
+
+Python behind the scenes #11: how the Python import system works  
+Victor Skvortsov  
+2021-07-13  
+https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/  
 
 
 
