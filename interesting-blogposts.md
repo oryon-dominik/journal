@@ -199,6 +199,11 @@ Anthony Shaw
 2020-08-15  
 https://tonybaloney.github.io/posts/extending-python-with-assembly.html  
 
+The Definitive Guide to Python import Statements  
+Chris Yeh  
+2017-08-08  
+https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html  
+
 
 
 ## PostgreSQL
