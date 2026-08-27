@@ -326,6 +326,10 @@ https://pandera.readthedocs.io/en/stable/
 rust and python API for fast dataframes  
 https://www.pola.rs/  
 
+*tqdm*  
+Progress bars for any iterable — wrap the loop, get the bar.  
+https://github.com/tqdm/tqdm  
+
 *scalene*  
 python performance optimizer, AI powered  
 for classical line-performance use the [line-profiler](https://github.com/pyutils/line_profiler) instead  
