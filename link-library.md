@@ -629,7 +629,12 @@ https://www.ansible.com/
 
 *podman*  
 manage containers, without root or deamon (as docker does)  
-https://podman.io/  
+https://podman.io/
+
+*uberspace*  
+German developer-oriented shared hosting from Mainz — SSH, own processes,  
+no click-together builder. Pay what it is worth to you.  
+https://uberspace.de/de/  
 
 *kubernetes*  
 Group containers to applications and load balance 'em.  
