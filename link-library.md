@@ -1185,6 +1185,11 @@ https://ecma-international.org/
 Web standards — CSS, accessibility, and the specs the browsers answer to.  
 https://www.w3.org/  
 
+*GPL in commercial projects*  
+codecentric on copyleft, linking and distribution — the question that returns  
+whenever a customer project touches a strong-copyleft library (German).  
+https://www.codecentric.de/wissens-hub/blog/verwendung-gpl-lizenzierter-komponenten-in-kommerziellen-projekten  
+
 *FriendDA*  
 disclosure agreement between friends  
 https://friendda.org/  
