@@ -730,6 +730,10 @@ https://transform.tools/
 convenient world clock, time zone converter and online meeting scheduler  
 https://www.worldtimebuddy.com/  
 
+*data-to-viz*  
+From data to visualisation, decision tree based on input data format  
+https://www.data-to-viz.com/  
+
 
 ## Shell & Terminal
 
